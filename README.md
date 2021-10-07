@@ -35,9 +35,6 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 - Where: [https://nns.ic0.app/](https://nns.ic0.app/)
 - Who: [DFINITY Foundation](https://dfinity.org)
 
-## Infrastructure
-
-
 ## NFT
 
 **Cronic NFTs**
@@ -70,8 +67,6 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 - Twitter: [https://twitter.com/EntrepotApp](https://twitter.com/EntrepotApp)
 - Discord: [https://discord.gg/toniqlabs](https://discord.gg/toniqlabs)
 - Github: [https://github.com/Toniq-Labs/exponent](https://github.com/Toniq-Labs/exponent)
-
-
 
 ## Tools
 
@@ -154,7 +149,30 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 
 ## Social
 
+**DSCVR**
 
+- What: DSCVR is a decentralized version of Reddit, where users are the owners. Decentralized end-to-end, built on the Internet Computer, and accessible from any browser. 
+- Where: [https://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/](https://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/)
+- Twitter: [https://twitter.com/DscvrO](https://twitter.com/DscvrO)
+
+**Distrikt**
+
+- What: Distrikt is a completely decentralized, community-owned professional network. Users of the platform will vote on upgrades, and no user data will ever be mined or sold. Create your account, secured by Internet Identity today.
+- Team:
+	- [https://distrikt.io](https://distrikt.io)
+	- [https://c7fao-laaaa-aaaae-aaa4q-cai.ic0.app/](https://c7fao-laaaa-aaaae-aaa4q-cai.ic0.app/)
+- Dapp:
+	- [https://distrikt.app](https://distrikt.app)
+	- [https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/](https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/)
+- Twitter: [https://twitter.com/DistriktApp](https://twitter.com/DistriktApp)
+- Telegram: [https://t.me/DistriktApp](https://t.me/DistriktApp)
+- Newsletter: [https://medium.com/distrikt](https://medium.com/distrikt)
+
+**OpenChat**
+
+- What: Decentralized messaging has been a pipe-dream for decades. With the advent of the Internet Computer, real-time messaging is now possible on a blockchain.
+- Where: [https://oc.app](https://oc.app)
+- Twitter: [https://twitter.com/OpenChat](https://twitter.com/OpenChat)
 
 ## Dapp
 
@@ -165,6 +183,13 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 - What: Agryo is the global risk intelligence provider that enables financial institutions to assess and manage financial risks in the crop field level for underwriting agriculture insurance, loans, and trade finance globally; as well as meet sustainability goals.
 - Where: [www.agryo.com](www.agryo.com)
 - Twitter: [https://twitter.com/agryo_](https://twitter.com/agryo_)
+
+**Origyn**
+
+- What: The Origyn Foundation is blending luxury goods, with NFTs by providing digital verifications for physical objects. Only possible on the Internet Computer.
+- Where: [https://www.origyn.ch/](https://www.origyn.ch/)
+- Twitter: [https://twitter.com/ORIGYNTech](https://twitter.com/ORIGYNTech)
+- Telegram: [https://t.me/origynfoundation](https://t.me/origynfoundation)
 
 ## DeFi
 
@@ -193,17 +218,74 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 
 ## Games
 
+**Cube Run**
+
+- What: The classic game, "Cube Run" gets an update by having a new graphic interface and being hosted completely on-chain. The decentralized version of this game lets you keep your high-score running in your browser through persistent memory. 
+- Where: [https://7qx3n-ziaaa-aaaad-qaqca-cai.raw.ic0.app/](https://7qx3n-ziaaa-aaaad-qaqca-cai.raw.ic0.app/)
+
+**HEXGL**
+
+- What: HexGL is a futuristic racing game using HTML5, Javascript, WebGL and hosted on the Internet Computer blockchain in order to run instantly on your browser from anywhere in the world.
+- Where: [https://neqb2-dyaaa-aaaad-qameq-cai.raw.ic0.app/](https://neqb2-dyaaa-aaaad-qameq-cai.raw.ic0.app/)
+
+**Lo-Fi Player**
+
+- What: Lo-Fi Player is a dapp hosted on the Internet Computer that lets users listen to relaxing beats delivered by blockchain. The back-end is using machine learning to build and develop the AI produced tunes, and users can interact within the player to change the sound to their liking.
+- Where: [https://hl2zz-gyaaa-aaaad-qas3a-cai.raw.ic0.app/](https://hl2zz-gyaaa-aaaad-qas3a-cai.raw.ic0.app/)
+
+**Reversi**
+
+- What: Reversi is one of the first canister smart contracts deployed to the Internet Computer and is a completely decentralized multiplayer game. Play against a friend (or foe) in real-time, from any browser, anywhere in the world.
+- Where: [https://ivg37-qiaaa-aaaab-aaaga-cai.ic0.app/#!/play](https://ivg37-qiaaa-aaaab-aaaga-cai.ic0.app/#!/play)
+- Who: [Paul Liu](https://forum.dfinity.org/u/paulliu/)
+
 **Rise of the Magni**
 
-- What:
-- Where:
+- What: Rise of the Magni, winner of the DSCVR hackathon for games on the Internet Computer. Buy, earn, and trade collectibles, compete in tactical battles online to earn in-game tokens, and venture through story mode to experience one of the first games built on the Internet Computer.
+- Where: [https://riseofthemagni.com/](https://riseofthemagni.com/)
 - Who: [Toniq Labs](https://igpeu-waaaa-aaaad-qaava-cai.raw.ic0.app/)
-- Twitter:
-- DFINITY Grants: 
-- Other:
+- Twitter: [https://twitter.com/ToniqGames](https://twitter.com/ToniqGames)
 
+**Saga Tarot**
+
+- What: Have your fortune told on the Internet Computer. Saga Tarot gives you a tarot reading in one click. The user-friendly dapp is built completely on the Internet Computer, accessible from any browser. What will the future hold for you?
+- Where: [https://5nl7c-zqaaa-aaaah-qaa7a-cai.raw.ic0.app/](https://5nl7c-zqaaa-aaaah-qaa7a-cai.raw.ic0.app/)
+- Who:
+
+**Welcome Into the Metaverse**
+
+- What: Prize winner of the DSCVR hackathon for the Internet Computer – this game brings digital community into a unified virtual space. Find anecdotes from founding ecosystem members, and go through a series of quests.
+- Where: [https://lc7ip-3iaaa-aaaah-aafva-cai.ic0.app/](https://lc7ip-3iaaa-aaaah-aafva-cai.ic0.app/)
+- Who: [https://twitter.com/ThuillierSbast3](https://twitter.com/ThuillierSbast3)
 
 ## Productivity
 
+**Aedile**
 
+- What: Aedile brings your team’s work together in one shared space, completely built on-chain. Manage your boards, columns & cards to transform your projects, serving web experiences directly from the Internet Computer blockchain.
+- Where: [https://eemeo-taaaa-aaaad-qakjq-cai.ic.fleek.co/](https://eemeo-taaaa-aaaad-qakjq-cai.ic.fleek.co/)
+- Who: [Esens Consulting](https://www.esensconsulting.com/)
+- Twitter: [https://twitter.com/aedile_ic](https://twitter.com/aedile_ic)
 
+**IC Drive**
+
+- What: A decentralized private file storage dapp built on the Internet Computer. Store and securely share any type from anywhere in the world with this decentralized version of Box, or Google Drive.
+- Where: [https://icdrive.co](https://icdrive.co)
+- Who: [https://twitter.com/nanditmehra](https://twitter.com/nanditmehra)
+- Twitter: [https://twitter.com/icDrive](https://twitter.com/icDrive)
+
+**DeckDeckGo**
+
+- What: An open source web editor for presentations built completely on-chain. This dapp is like a decentralized version of Google Slides built on the Internet Computer.
+- Where: [https://deckdeckgo.com](https://deckdeckgo.com)
+- Who: [https://twitter.com/daviddalbusco](https://twitter.com/daviddalbusco), [https://twitter.com/nasmattia](https://twitter.com/nasmattia)
+- Twitter: [https://twitter.com/deckdeckgo](https://twitter.com/deckdeckgo)
+- Github: [https://github.com/deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo)
+
+**Nuance**
+
+- What: Nuance is a Web3.0 blogging platform that is hosted on-chain end-to-end on the Internet Computer. Developed by Aikin Dapps, the alpha of the world’s first blogging platform to be hosted entirely on a blockchain has now launched. Nuance aims to bring NFTs into the world of editorial content ownership.
+- Where: [https://fxnaj-yaaaa-aaaaf-qad3q-cai.ic0.app](https://fxnaj-yaaaa-aaaaf-qad3q-cai.ic0.app)
+- Who: [AIKIN](https://www.aikin.io/)
+- Twitter: [https://twitter.com/AikinDApps](https://twitter.com/AikinDApps)
+- Discord: [https://discord.gg/2dPCPu6zxz](https://discord.gg/2dPCPu6zxz)
