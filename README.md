@@ -3,7 +3,18 @@
 
 A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Visit [https://zire.github.io/awesome-IC/](https://zire.github.io/awesome-IC/) to view it on desktop or mobile.
 
-## Wallet
+Total # of IC dApps: `40` as last updated on `Oct 18, 2021`
+
+- Wallet (4)
+- Tools (11)
+- DeFi (3)
+- NFT (4)
+- Social (3)
+- Games (7)
+- Productivity (4)
+- Enterprise (2)
+
+## Wallet (4)
 
 **Plug**
 
@@ -35,40 +46,7 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 - Where: [https://nns.ic0.app/](https://nns.ic0.app/)
 - Who: [DFINITY Foundation](https://dfinity.org)
 
-## NFT
-
-**Cronic NFTs**
-
-- What:
-- Where:
-- Who: [Toniq Labs](https://igpeu-waaaa-aaaad-qaava-cai.raw.ic0.app/)
-- Twitter:
-- DFINITY Grants: 
-- Other:
-
-**Departure Labs' NFT Standard Project**
-
-- What: A non-fungible token standard which leverages the unique properties of the IC and enables builders to create entire experiences from a single contract. 
-- Who: [Departure Labs](https://twitter.com/DepartureLabs)
-- Github: [https://github.com/DepartureLabsIC/non-fungible-token](https://github.com/DepartureLabsIC/non-fungible-token)
-
-**Exponent**
-
-- What: The Exponent Platform is a complete Layer1 DeFi solution running on DFINITY's Internet Computer. Our platform is made from a number of our token standard, SDK and protocols.
-- Who: [Toniq Labs](https://igpeu-waaaa-aaaad-qaava-cai.raw.ic0.app/)
-- Discord: [https://t.co/9iDZBX35mg?amp=1](https://t.co/9iDZBX35mg?amp=1)
-- Github: [https://github.com/Toniq-Labs/exponent](https://github.com/Toniq-Labs/exponent)
-
-**Entrepot NFT Marketplace**
-
-- What: The most trusted NFT marketplace on the Internet Computer. Non-custodial. No Gas. 
-- Where: [https://entrepot.app/](https://entrepot.app/)
-- Who: [Toniq Labs](https://igpeu-waaaa-aaaad-qaava-cai.raw.ic0.app/)
-- Twitter: [https://twitter.com/EntrepotApp](https://twitter.com/EntrepotApp)
-- Discord: [https://discord.gg/toniqlabs](https://discord.gg/toniqlabs)
-- Github: [https://github.com/Toniq-Labs/exponent](https://github.com/Toniq-Labs/exponent)
-
-## Tools
+## Tools (11)
 
 **AstroX**
 
@@ -147,7 +125,65 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 - Twitter: [https://twitter.com/lastmjs](https://twitter.com/lastmjs)
 - Github: [https://github.com/sudograph/sudograph](https://github.com/sudograph/sudograph)
 
-## Social
+## DeFi (3)
+
+**Dank**
+
+- What: Dank is the first Decentralized Bank built on the Internet Computer, developed by Fleek. Through a collection of Open Internet Services for users and developers, Dank makes cycles management seamless.
+- Where: [https://dank.ooo/](https://dank.ooo/)
+- Who:
+- Twitter: [https://twitter.com/dank_ois](https://twitter.com/dank_ois)
+- Discord: [https://discord.gg/yVEcEzmrgm](https://discord.gg/yVEcEzmrgm)
+
+**Dfinance**
+
+- What: DFinance is building open financial infrastructure on the Internet Computer. With DeFi products, swaps, unified token standards, token issuance, and token management DFinance is one of the first open and decentralized financial solutions on the Internet Computer.
+- Where: [https://dfinance.ai/](https://dfinance.ai/)
+- Twitter: [https://twitter.com/DFinance_AI](https://twitter.com/DFinance_AI)
+- Discord: [https://discord.gg/EkmnRd99h6](https://discord.gg/EkmnRd99h6)
+- Github: [https://github.com/dfinance-tech](https://github.com/dfinance-tech)
+- DFINITY Grants: 
+
+**Uniswap Front End on the IC**
+
+- What: Uniswap front end hosted on the Internet Computer through Fleek. Showing how traditional DeFi solutions can now be hosted completely on-chain by using the Internet Computer blockchain. Another use case of completely decentralizing a service which currently has a centralized front end.
+- Where: [https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap](https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap)
+- Who: [fleek](https://fleek.co/)
+
+## NFT (4)
+
+**Cronic NFTs**
+
+- What:
+- Where:
+- Who: [Toniq Labs](https://igpeu-waaaa-aaaad-qaava-cai.raw.ic0.app/)
+- Twitter:
+- DFINITY Grants: 
+- Other:
+
+**Departure Labs' NFT Standard Project**
+
+- What: A non-fungible token standard which leverages the unique properties of the IC and enables builders to create entire experiences from a single contract. 
+- Who: [Departure Labs](https://twitter.com/DepartureLabs)
+- Github: [https://github.com/DepartureLabsIC/non-fungible-token](https://github.com/DepartureLabsIC/non-fungible-token)
+
+**Exponent**
+
+- What: The Exponent Platform is a complete Layer1 DeFi solution running on DFINITY's Internet Computer. Our platform is made from a number of our token standard, SDK and protocols.
+- Who: [Toniq Labs](https://igpeu-waaaa-aaaad-qaava-cai.raw.ic0.app/)
+- Discord: [https://t.co/9iDZBX35mg?amp=1](https://t.co/9iDZBX35mg?amp=1)
+- Github: [https://github.com/Toniq-Labs/exponent](https://github.com/Toniq-Labs/exponent)
+
+**Entrepot NFT Marketplace**
+
+- What: The most trusted NFT marketplace on the Internet Computer. Non-custodial. No Gas. 
+- Where: [https://entrepot.app/](https://entrepot.app/)
+- Who: [Toniq Labs](https://igpeu-waaaa-aaaad-qaava-cai.raw.ic0.app/)
+- Twitter: [https://twitter.com/EntrepotApp](https://twitter.com/EntrepotApp)
+- Discord: [https://discord.gg/toniqlabs](https://discord.gg/toniqlabs)
+- Github: [https://github.com/Toniq-Labs/exponent](https://github.com/Toniq-Labs/exponent)
+
+## Social (3)
 
 **DSCVR**
 
@@ -174,49 +210,7 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 - Where: [https://oc.app](https://oc.app)
 - Twitter: [https://twitter.com/OpenChat](https://twitter.com/OpenChat)
 
-## Dapp
-
-## Enterprise
-
-**Agryo**
-
-- What: Agryo is the global risk intelligence provider that enables financial institutions to assess and manage financial risks in the crop field level for underwriting agriculture insurance, loans, and trade finance globally; as well as meet sustainability goals.
-- Where: [www.agryo.com](www.agryo.com)
-- Twitter: [https://twitter.com/agryo_](https://twitter.com/agryo_)
-
-**Origyn**
-
-- What: The Origyn Foundation is blending luxury goods, with NFTs by providing digital verifications for physical objects. Only possible on the Internet Computer.
-- Where: [https://www.origyn.ch/](https://www.origyn.ch/)
-- Twitter: [https://twitter.com/ORIGYNTech](https://twitter.com/ORIGYNTech)
-- Telegram: [https://t.me/origynfoundation](https://t.me/origynfoundation)
-
-## DeFi
-
-**Dank**
-
-- What: Dank is the first Decentralized Bank built on the Internet Computer, developed by Fleek. Through a collection of Open Internet Services for users and developers, Dank makes cycles management seamless.
-- Where: [https://dank.ooo/](https://dank.ooo/)
-- Who:
-- Twitter: [https://twitter.com/dank_ois](https://twitter.com/dank_ois)
-- Discord: [https://discord.gg/yVEcEzmrgm](https://discord.gg/yVEcEzmrgm)
-
-**Dfinance**
-
-- What: DFinance is building open financial infrastructure on the Internet Computer. With DeFi products, swaps, unified token standards, token issuance, and token management DFinance is one of the first open and decentralized financial solutions on the Internet Computer.
-- Where: [https://dfinance.ai/](https://dfinance.ai/)
-- Twitter: [https://twitter.com/DFinance_AI](https://twitter.com/DFinance_AI)
-- Discord: [https://discord.gg/EkmnRd99h6](https://discord.gg/EkmnRd99h6)
-- Github: [https://github.com/dfinance-tech](https://github.com/dfinance-tech)
-- DFINITY Grants: 
-
-**Uniswap Front End on the IC**
-
-- What: Uniswap front end hosted on the Internet Computer through Fleek. Showing how traditional DeFi solutions can now be hosted completely on-chain by using the Internet Computer blockchain. Another use case of completely decentralizing a service which currently has a centralized front end.
-- Where: [https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap](https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap)
-- Who: [fleek](https://fleek.co/)
-
-## Games
+## Games (7)
 
 **Cube Run**
 
@@ -258,7 +252,7 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 - Where: [https://lc7ip-3iaaa-aaaah-aafva-cai.ic0.app/](https://lc7ip-3iaaa-aaaah-aafva-cai.ic0.app/)
 - Who: [https://twitter.com/ThuillierSbast3](https://twitter.com/ThuillierSbast3)
 
-## Productivity
+## Productivity (4)
 
 **Aedile**
 
@@ -289,3 +283,18 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 - Who: [AIKIN](https://www.aikin.io/)
 - Twitter: [https://twitter.com/AikinDApps](https://twitter.com/AikinDApps)
 - Discord: [https://discord.gg/2dPCPu6zxz](https://discord.gg/2dPCPu6zxz)
+
+## Enterprise (2)
+
+**Agryo**
+
+- What: Agryo is the global risk intelligence provider that enables financial institutions to assess and manage financial risks in the crop field level for underwriting agriculture insurance, loans, and trade finance globally; as well as meet sustainability goals.
+- Where: [www.agryo.com](www.agryo.com)
+- Twitter: [https://twitter.com/agryo_](https://twitter.com/agryo_)
+
+**Origyn**
+
+- What: The Origyn Foundation is blending luxury goods, with NFTs by providing digital verifications for physical objects. Only possible on the Internet Computer.
+- Where: [https://www.origyn.ch/](https://www.origyn.ch/)
+- Twitter: [https://twitter.com/ORIGYNTech](https://twitter.com/ORIGYNTech)
+- Telegram: [https://t.me/origynfoundation](https://t.me/origynfoundation)
