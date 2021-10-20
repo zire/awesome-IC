@@ -3,19 +3,20 @@
 
 A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Visit [https://zire.github.io/awesome-IC/](https://zire.github.io/awesome-IC/) to view it on desktop or mobile.
 
-Total # of IC dApps indexed: `94` as last updated on `Oct 18, 2021`. This is not a complete list yet and more will be added in the coming days.
+Total # of IC dApps indexed: `102` as last updated on `Oct 20, 2021`. This is not a complete list yet and more will be added in the coming days.
 
 - Essential (`3`)
 - Wallet (`4`)
-- Tools (`16`)
+- Tools (`15`)
+- Motoko (`3`)
 - DeFi (`11`)
 - NFT (`26`)
-- Social (`8`)
+- Social (`9`)
 - Games (`10`)
-- Metaverse (`2`)
+- Metaverse (`3`)
 - Productivity (`7`)
-- Communities (`2`)
-- Enterprise (`5`)
+- Communities (`3`)
+- Enterprise (`8`)
 
 This page tries to capture key info for each project, including its tag line, IC URL, Twitter, Discord, Telegram, Github repo and the team behind. For those projects with Twitter handles, they can also be found at:
 
@@ -82,7 +83,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Telegram: [https://t.me/earthwallet](https://t.me/earthwallet)
 - Github: [https://github.com/earth-association](https://github.com/earth-association)
 
-## Tools (16)
+## Tools (15)
 
 **AstroX**
 
@@ -174,17 +175,11 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Who: [Norton Wang](https://twitter.com/floatfloatboat)
 - Twitter: [https://twitter.com/ic_rocks](https://twitter.com/ic_rocks)
 
-**Motoko Playground**
+**Pocket 4D**
 
-- What: The Motoko Playground is an IDE for developers to learn Motoko – the native language for the Internet Computer blockchain. Deploy canister smart contracts for free, directly within a browser, without needing to download an SDK or set up a wallet.
-- Where: [https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/)
-- Who: [Chen Yan](https://forum.dfinity.org/u/chenyan/)
-
-**Matoko School**
-
-- What: Motoko School is the first public school for the Metaverse, only on the Internet Computer
-- Where: [Mototko School on Youtube](https://www.youtube.com/channel/UCS2Y9oRMpBfVqAnChFoXepg)
-- Twitter: [https://twitter.com/MotokoSchool](https://twitter.com/MotokoSchool)
+- What: A framework container runs Mini-Apps or Mini-Programs, using enhanced Canister of cross-platform.
+- Who: [Michael So](https://twitter.com/ghostcorn) and the team
+- Github: [https://github.com/Pocket4D/Pocket4D-Wiki](https://github.com/Pocket4D/Pocket4D-Wiki)
 
 **Sudograph**
 
@@ -199,6 +194,24 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://rivyl-6aaaa-aaaaf-qaapq-cai.raw.ic0.app/](https://rivyl-6aaaa-aaaaf-qaapq-cai.raw.ic0.app/)
 - Github: [https://github.com/kristoferlund/ic-wall](https://github.com/kristoferlund/ic-wall)
 - Who: [Kristofer Lund](https://twitter.com/kristoferlund)
+
+## Motoko (3)
+
+**Block.**
+
+- What: A virtual editor for Motoko
+
+**Motoko Playground**
+
+- What: The Motoko Playground is an IDE for developers to learn Motoko – the native language for the Internet Computer blockchain. Deploy canister smart contracts for free, directly within a browser, without needing to download an SDK or set up a wallet.
+- Where: [https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/)
+- Who: [Chen Yan](https://forum.dfinity.org/u/chenyan/)
+
+**Matoko School**
+
+- What: Motoko School is the first public school for the Metaverse, only on the Internet Computer
+- Where: [Mototko School on Youtube](https://www.youtube.com/channel/UCS2Y9oRMpBfVqAnChFoXepg)
+- Twitter: [https://twitter.com/MotokoSchool](https://twitter.com/MotokoSchool)
 
 ## DeFi (11)
 
@@ -468,7 +481,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Twitter: [https://twitter.com/TheSwordNft](https://twitter.com/TheSwordNft)
 - Discord: [https://discord.com/invite/Xgc5zTrdSb](https://discord.com/invite/Xgc5zTrdSb)
 
-## Social (8)
+## Social (9)
 
 **crowdEasts**
 
@@ -503,6 +516,12 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Who: [Rickey](https://github.com/HelloRickey)
 - Twitter: [https://twitter.com/icpmeet](https://twitter.com/icpmeet)
 - DFINITY Grant: received in July 2021
+
+**Go Bazzinga**
+
+- What: World's first decentralised "Short-Video X Draft Kings" Social Speculation Platform
+- Where: [https://gobazzinga.io/](https://gobazzinga.io/)
+- Twitter: [https://twitter.com/GoBazzingainc](https://twitter.com/GoBazzingainc)
 
 **Learned**
 
@@ -596,7 +615,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://lc7ip-3iaaa-aaaah-aafva-cai.ic0.app/](https://lc7ip-3iaaa-aaaah-aafva-cai.ic0.app/)
 - Who: [https://twitter.com/ThuillierSbast3](https://twitter.com/ThuillierSbast3)
 
-## Metaverse (2)
+## Metaverse (3)
 
 **Drip.Land**
 
@@ -615,6 +634,12 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Twitter: [https://twitter.com/metaverseOrg](https://twitter.com/metaverseOrg)
 - Github: [https://github.com/Vera-AI-Technology](https://github.com/Vera-AI-Technology)
 - DFINITY Grant: received in October 2021
+
+**XR Foundation**
+
+- What: an open source zero-profit collective building metaverse technologies.
+- Where: [https://www.xrfoundation.io/](https://www.xrfoundation.io/)
+- Github: [https://github.com/XRFoundation/XREngine](https://github.com/XRFoundation/XREngine)
 
 ## Productivity (7)
 
@@ -668,7 +693,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://waterslide.app/](https://waterslide.app/)
 - Twitter: [https://twitter.com/waterslide_app](https://twitter.com/waterslide_app)
 
-## Communities (2)
+## Communities (3)
 
 **DfiStarter**
 
@@ -686,7 +711,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Who: [Lee](https://github.com/includeleec) of [https://www.nebulas.io/](https://twitter.com/nebulasio)
 - DFINITY Grant: received in June 2021
 
-## Enterprise (5)
+**THUBA Education**
+
+- What: THUBA Education is an education platform supported by Tsinghua University student Blockchain Association. The goal is to be a solid bridge between students and blockchain world. The students can use this platform to learn blockchain courses, join Hackthon and do some research. 
+- Where: [https://thublockchain.org/](https://thublockchain.org/)
+- Who: Tsinghua University Students Blockchain Association
+
+## Enterprise (8)
 
 **Agryo**
 
@@ -699,6 +730,25 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - What: Marketplace app connecting high quality Content Creators to Brands, running on Dfinity Internet Computer
 - Where: [https://contentfly.app/](https://contentfly.app/)
 - Twitter: [https://twitter.com/ContentFlyApp](https://twitter.com/ContentFlyApp)
+
+**dFlow**
+
+- What: "decentralized Workflow"- an innovative and simple way for defining and executing cross-organisational business flows
+- Where: [https://www.dcentra.io/](https://www.dcentra.io/)
+
+**dService**
+
+- What: A next-generation decentralized Service Management Application running on the Internet Computer. The Application is primarily focused on IT Service Management.
+- Where:
+	- [https://agnoo-nqaaa-aaaah-aaq4q-cai.ic0.app/](https://agnoo-nqaaa-aaaah-aaq4q-cai.ic0.app/)
+	- [https://dservice.app](https://dservice.app)
+- Twitter: [https://twitter.com/dServiceApp](https://twitter.com/dServiceApp)
+
+**Optex**
+
+- What: Optex is a powerful data visualisation tool designed to provide seamless insights into complex data. Optex is out-of-the-box solution that will allows users to combine data in a single analysis and get a holistic view of the same with interactive customisable visualisations.
+- Where: [https://www.clinicaltrialsintelligence.org/](https://www.clinicaltrialsintelligence.org/)
+- Twitter: [https://twitter.com/ClinTexCTi](https://twitter.com/ClinTexCTi)
 
 **Origyn**
 
