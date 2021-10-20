@@ -3,13 +3,13 @@
 
 A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Visit [https://zire.github.io/awesome-IC/](https://zire.github.io/awesome-IC/) to view it on desktop or mobile.
 
-Total # of IC dApps indexed: `92` as last updated on `Oct 18, 2021`. This is not a complete list yet and more will be added in the coming days.
+Total # of IC dApps indexed: `94` as last updated on `Oct 18, 2021`. This is not a complete list yet and more will be added in the coming days.
 
 - Essential (`3`)
 - Wallet (`4`)
 - Tools (`16`)
 - DeFi (`11`)
-- NFT (`24`)
+- NFT (`26`)
 - Social (`8`)
 - Games (`10`)
 - Metaverse (`2`)
@@ -286,7 +286,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap](https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap)
 - Who: [fleek](https://fleek.co/)
 
-## NFT (24)
+## NFT (26)
 
 **Crowd Created Canvas (CCC)***
 
@@ -302,6 +302,19 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Who: [Toniq Labs](https://igpeu-waaaa-aaaad-qaava-cai.raw.ic0.app/)
 - Twitter: [https://twitter.com/CronicsP2E](https://twitter.com/CronicsP2E)
 - Telegram: [https://t.me/cronic_talk](https://t.me/cronic_talk)
+
+**IC Ape Ventures**
+
+- What: 10,000 Unique Apes are getting ready to take their first steps in to the #ICP ecosystem
+- Where: [https://icapeventures.com/](https://icapeventures.com/)
+- Twitter: [https://twitter.com/ICApeVentures](https://twitter.com/ICApeVentures)
+- Discord: [https://discord.com/invite/icapeventures](https://discord.com/invite/icapeventures)
+
+**IC Photographers**
+
+- What: At IC photographers, the aim is to bring both creator and collector together. We endeavour to show talented artists to the collectors of photography NFT’s.
+- Where: [https://www.icphotographers.com/](https://www.icphotographers.com/)
+- Who: [Oli](https://twitter.com/olisav)
 
 **Dfinity Bulls NFT**
 
