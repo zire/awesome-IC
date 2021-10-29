@@ -3,14 +3,16 @@
 
 A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Visit [https://zire.github.io/awesome-IC/](https://zire.github.io/awesome-IC/) to view it on desktop or mobile.
 
-Total # of IC dApps indexed: `102` as last updated on `Oct 20, 2021`. This is not a complete list yet and more will be added in the coming days.
+![dfn logl](https://1082-xyz.s3.us-west-1.amazonaws.com/dfn_logo.png)
+
+Total # of IC dApps indexed: `107` as last updated on `Oct 29, 2021`. This is not a complete list yet and more will be added in the coming days.
 
 - Essential (`3`)
 - Wallet (`4`)
 - Tools (`15`)
 - Motoko (`3`)
 - DeFi (`11`)
-- NFT (`26`)
+- NFT (`31`)
 - Social (`9`)
 - Games (`10`)
 - Metaverse (`3`)
@@ -22,7 +24,9 @@ This page tries to capture key info for each project, including its tag line, IC
 
 > [IC Projects - All@Twitter](https://twitter.com/i/lists/1443165233510436868)
 
-This list includes 100% all the projects from [DFINITY Showcase](https://dfinity.org/showcase/) but is a lot more than that. It tries to index all the known IC dApps, regardless of whether it's received grants from the DFINITY Foundation or already hard-launched (do they ever?). Some of those projects have received [developer grants from the DFINITY Foundation](https://dfinity.org/grants/). Some of them may not have been deployed on IC yet - though the expectation is that they are working toward that. It does not include IC communities, media or development teams per se (though they'll be included under the project section). All info is obtained from public channels. 
+This list includes all the projects from [DFINITY Showcase](https://dfinity.org/showcase/) but is a lot more than that. It tries to index all the known IC dApps. Some of those projects have received [developer grants from the DFINITY Foundation](https://dfinity.org/grants/). Some of them may not have been deployed on IC yet - though the expectation is that they are working toward that. It does not include IC communities, media or development teams per se (though they'll be included under the "project" section). All info is obtained from public channels. 
+
+The projects indexed on this list cover a wide spectrum on quality, maturity and tech deployment. Some of them have already received venture funding from established crypto funds; some of them are taking full advantage of Internet Computer (IC)'s unique technical strengths; some of them are using IC as a backend infrastructure in liew of AWS/GCP, and some of them are porting an existing Polkadot/Filecoin application to IC. The inclusion of a project (or lack of) does not speak to the quality of it. That judgment is left to the community and all IC advocates. This is just a directory that helps everyone do scavenger hunt on IC.
 
 If you find an IC dApp is still missing from this page, please [send a PR to its Github repo](https://github.com/zire/awesome-IC) so that I can merge, or [DM me on Twitter](https://twitter.com/herbertyang), or [send me an email](mailto: herbert.yang@dfinity.org?subject=More dApp on Awesome IC). Suggestions on how to make this site more useful to the community are very welcome. Many thanks. 
 
@@ -299,7 +303,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap](https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap)
 - Who: [fleek](https://fleek.co/)
 
-## NFT (26)
+## NFT (30)
 
 **Crowd Created Canvas (CCC)***
 
@@ -357,6 +361,15 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Twitter: [https://twitter.com/EntrepotApp](https://twitter.com/EntrepotApp)
 - Discord: [https://discord.gg/toniqlabs](https://discord.gg/toniqlabs)
 - Github: [https://github.com/Toniq-Labs/exponent](https://github.com/Toniq-Labs/exponent)
+
+**Fantosaurs**
+
+- What: Raptors from Isla NOOblar, currently on Eth, but hosted on IC
+- Where: 
+	- [https://fantosaur.io/](https://fantosaur.io/)
+	- [https://j5h4x-gyaaa-aaaad-qayjq-cai.raw.ic0.app/](https://j5h4x-gyaaa-aaaad-qayjq-cai.raw.ic0.app/)
+- Twitter: [https://twitter.com/fantosaurs](https://twitter.com/fantosaurs)
+- Discord: [https://discord.com/invite/e7bec4rm](https://discord.com/invite/e7bec4rm)
 
 **Fungible Token Standard by Deland**
 
@@ -421,12 +434,26 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Twitter: [https://twitter.com/ICPuppies](https://twitter.com/ICPuppies)
 - Discord: [http://discord.gg/A3rmDSjBaJ](http://discord.gg/A3rmDSjBaJ)
 
+**ICSnakes**
+
+- What: A collection of 10,000 randomly generated NFTs on #ICP blockchain hunting for food.
+- Where: [https://xn--4n8h7h.ws/](https://xn--4n8h7h.ws/)
+- Twitter: [https://twitter.com/ICSnakes](https://twitter.com/ICSnakes)
+- Discord: [https://discord.com/invite/H9YUpwVrkQ](https://discord.com/invite/H9YUpwVrkQ)
+
 **ICTuts**
 
 - What: 1st pharaohs NFTs in the world ExCLUSIVE @ #ICP  10,000 randomly generated TuTs ( king TuT ).
 - Where: [https://ictuts.com/](https://ictuts.com/)
 - Twitter: [https://twitter.com/ICTuTs](https://twitter.com/ICTuTs)
 - Discord: [https://discord.com/invite/sMByysB3Tf](https://discord.com/invite/sMByysB3Tf)
+
+**Inferval Vampire Colony**
+
+- What: 666 randomly generated Vampires on the Internet Computer
+- Where: [https://www.infernalvampires.com/](https://www.infernalvampires.com/)
+- Twitter: [https://twitter.com/IVCNFT](https://twitter.com/IVCNFT)
+- Discord: [https://discord.com/invite/mA5cXdAtwe](https://discord.com/invite/mA5cXdAtwe)
 
 **Infinite Charity Project**
 
@@ -439,6 +466,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - What: Internet Astronauts are a set of 10,000 limited edition, uniquely minted astronaut-themed NFTs. These end-to-end on-chain NFTs will be up for grabs to the community through the Entrepot.app marketplace. They are only possible through the Internet Computer blockchain.
 - Where: [https://interastrosc.com/](https://interastrosc.com/)
 - Twitter: [https://twitter.com/interastrosc](https://twitter.com/interastrosc)
+
+**Meme Cake**
+
+- What: The Cake Club is a collection of 7777 Dick NFTs unique digital collectible living on the Internet computer, made by Meme Cake, which claims to be the world's first decentralized comedy platform. Think of it as a 9GAG but decentralized. 
+- Where: [https://memecake.io/](https://memecake.io/)
+- Twitter: [https://twitter.com/realmemecake](https://twitter.com/realmemecake)
+- Discord: [https://discord.com/invite/vr2ATGMdug](https://discord.com/invite/vr2ATGMdug)
 
 **Newsie**
 
@@ -480,6 +514,12 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://theswordnft.com/](https://theswordnft.com/)
 - Twitter: [https://twitter.com/TheSwordNft](https://twitter.com/TheSwordNft)
 - Discord: [https://discord.com/invite/Xgc5zTrdSb](https://discord.com/invite/Xgc5zTrdSb)
+
+**Yolo Octopus**
+
+- What: a collection of 8888 intelligently generated NFTs on the Internet Computer blockchain
+- Where: [http://www.enteryoloclub.com/](http://www.enteryoloclub.com/)
+- Twitter: [https://twitter.com/EnterYoloClub](https://twitter.com/EnterYoloClub)
 
 ## Social (9)
 
