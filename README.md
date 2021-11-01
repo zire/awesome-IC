@@ -5,19 +5,19 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 
 ![dfn logl](https://1082-xyz.s3.us-west-1.amazonaws.com/dfn_logo.png)
 
-Total # of IC dApps indexed: `107` as last updated on `Oct 29, 2021`. This is not a complete list yet and more will be added in the coming days.
+Total # of IC dApps indexed: `111` as last updated on `Nov 1, 2021`. This is not a complete list yet and more will be added in the coming days.
 
 - Essential (`3`)
 - Wallet (`4`)
-- Tools (`15`)
+- Tools (`16`)
 - Motoko (`3`)
 - DeFi (`11`)
-- NFT (`31`)
+- NFT (`32`)
 - Social (`9`)
 - Games (`10`)
 - Metaverse (`3`)
-- Productivity (`7`)
-- Communities (`3`)
+- Productivity (`8`)
+- Communities (`4`)
 - Enterprise (`8`)
 
 This page tries to capture key info for each project, including its tag line, IC URL, Twitter, Discord, Telegram, Github repo and the team behind. For those projects with Twitter handles, they can also be found at:
@@ -87,7 +87,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Telegram: [https://t.me/earthwallet](https://t.me/earthwallet)
 - Github: [https://github.com/earth-association](https://github.com/earth-association)
 
-## Tools (15)
+## Tools (16)
 
 **AstroX**
 
@@ -150,6 +150,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Who: [Dylan Miller](https://github.com/dylancm4)
 - Twitter: [https://twitter.com/dfinityexplorer](https://twitter.com/dfinityexplorer)
 - Github: [https://github.com/dfinityexplorer/dfinityexplorer-dashboard](https://github.com/dfinityexplorer/dfinityexplorer-dashboard)
+
+**Dstar**
+
+- What: a marketplace that facilitates listing, buying and selling of your Internet Identity ("II") accounts 
+- Where:
+	- [https://support.dstar.app/#/](https://support.dstar.app/#/)
+	- [https://yunqk-aqaaa-aaaai-qawva-cai.ic0.app/](https://yunqk-aqaaa-aaaai-qawva-cai.ic0.app/)
 
 **Fleek**
 
@@ -303,7 +310,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap](https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap)
 - Who: [fleek](https://fleek.co/)
 
-## NFT (30)
+## NFT (31)
 
 **Crowd Created Canvas (CCC)***
 
@@ -379,6 +386,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Medium: [https://medium.com/@DelandLabs](https://medium.com/@DelandLabs)
 - Discord: [https://discord.gg/CdzzUaFUXq](https://discord.gg/CdzzUaFUXq)
 - DFINITY Grant: received in August, 2021
+
+**Haunted Hamsters**
+
+- What: NFT set of 6,666 haunted hamsters, spooking on DFINITY ICP
+- Where: [http://www.hauntedhamsters.io/](http://www.hauntedhamsters.io/)
+- Twitter: [https://twitter.com/HauntedHamsters](https://twitter.com/HauntedHamsters)
+- Discord: [https://discord.com/invite/DtSF7SGK](https://discord.com/invite/DtSF7SGK)
 
 **IC3D**
 
@@ -681,7 +695,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://www.xrfoundation.io/](https://www.xrfoundation.io/)
 - Github: [https://github.com/XRFoundation/XREngine](https://github.com/XRFoundation/XREngine)
 
-## Productivity (7)
+## Productivity (8)
 
 **Aedile**
 
@@ -719,6 +733,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Medium: [https://medium.com/@dmail_official](https://medium.com/@dmail_official)
 - Github: [https://github.com/dmailofficial](https://github.com/dmailofficial)
 
+**IC Contacts**
+
+- What: A social media management tool build on ICP, helping users manage relations in Web3 networks
+- Who: [Relation Labs](https://twitter.com/relationlabs)
+- Twitter: [https://twitter.com/relationlabs](https://twitter.com/relationlabs)
+- Other: [Grand Slam winner of 7th Wanxiang Blockchain Hackathon](https://twitter.com/herbertyang/status/1454780835379384326)
+
 **Nuance**
 
 - What: Nuance is a Web3.0 blogging platform that is hosted on-chain end-to-end on the Internet Computer. Developed by Aikin Dapps, the alpha of the world’s first blogging platform to be hosted entirely on a blockchain has now launched. Nuance aims to bring NFTs into the world of editorial content ownership.
@@ -733,7 +754,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://waterslide.app/](https://waterslide.app/)
 - Twitter: [https://twitter.com/waterslide_app](https://twitter.com/waterslide_app)
 
-## Communities (3)
+## Communities (4)
 
 **DfiStarter**
 
@@ -750,6 +771,12 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Github: [https://github.com/icpfans-xyz](https://github.com/icpfans-xyz)
 - Who: [Lee](https://github.com/includeleec) of [https://www.nebulas.io/](https://twitter.com/nebulasio)
 - DFINITY Grant: received in June 2021
+
+**Internet Computer Education**
+
+- What: very helpful Github-based education resources  with elaborate and step-by-step online classes and cirriculum to teach developers Internet Computer
+- Where: [https://github.com/DFINITY-Education](https://github.com/DFINITY-Education)
+- Who: [nico](https://github.com/nzoghb), [csolimano](https://github.com/csolimano) and [Claudio Russo](https://github.com/crusso)
 
 **THUBA Education**
 
