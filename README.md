@@ -155,8 +155,9 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 
 - What: a marketplace that facilitates listing, buying and selling of your Internet Identity ("II") accounts 
 - Where:
-	- [https://support.dstar.app/#/](https://support.dstar.app/#/)
+	- [https://ii.dstar.app](https://ii.dstar.app)
 	- [https://yunqk-aqaaa-aaaai-qawva-cai.ic0.app/](https://yunqk-aqaaa-aaaai-qawva-cai.ic0.app/)
+- Github: [https://github.com/ic-dstar/](https://github.com/ic-dstar/)
 
 **Fleek**
 
