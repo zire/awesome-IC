@@ -696,7 +696,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://www.xrfoundation.io/](https://www.xrfoundation.io/)
 - Github: [https://github.com/XRFoundation/XREngine](https://github.com/XRFoundation/XREngine)
 
-## Productivity (8)
+## Productivity (9)
 
 **Aedile**
 
@@ -754,6 +754,12 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - What: Frontend to interact with the @LiquityProtocol
 - Where: [https://waterslide.app/](https://waterslide.app/)
 - Twitter: [https://twitter.com/waterslide_app](https://twitter.com/waterslide_app)
+
+**ICEvent**
+- What: An open event service built on IC. Manage and share calendars, events, and todos..., custom solutions for activities, schedules, itineraries, appointments...
+- Where: https://znisf-eqaaa-aaaaj-aabta-cai.raw.ic0.app/
+- Twitter: https://twitter.com/vansdaynet
+
 
 ## Communities (4)
 
