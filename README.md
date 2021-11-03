@@ -5,20 +5,20 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 
 ![dfn logl](https://1082-xyz.s3.us-west-1.amazonaws.com/dfn_logo.png)
 
-Total # of IC dApps indexed: `111` as last updated on `Nov 1, 2021`. This is not a complete list yet and more will be added in the coming days.
+Total # of IC dApps indexed: `122` as last updated on `Nov 4, 2021`. This is not a complete list yet and more will be added in the coming days.
 
 - Essential (`3`)
 - Wallet (`4`)
-- Tools (`16`)
+- Tools (`18`)
 - Motoko (`3`)
-- DeFi (`11`)
-- NFT (`32`)
-- Social (`9`)
+- DeFi (`14`)
+- NFT (`35`)
+- Social (`10`)
 - Games (`10`)
 - Metaverse (`3`)
-- Productivity (`8`)
+- Productivity (`9`)
 - Communities (`4`)
-- Enterprise (`8`)
+- Enterprise (`9`)
 
 This page tries to capture key info for each project, including its tag line, IC URL, Twitter, Discord, Telegram, Github repo and the team behind. For those projects with Twitter handles, they can also be found at:
 
@@ -87,7 +87,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Telegram: [https://t.me/earthwallet](https://t.me/earthwallet)
 - Github: [https://github.com/earth-association](https://github.com/earth-association)
 
-## Tools (16)
+## Tools (18)
 
 **AstroX**
 
@@ -136,6 +136,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Github: [https://github.com/WhiteMatrixTech](https://github.com/WhiteMatrixTech)
 - DFINITY Grant: received in May 2021
 
+**Create IC**
+
+- What: Modern frontend templates for the Internet Computer with everything working out of the box. Powered by ViteJS
+- Where: [https://create-ic.app/](https://create-ic.app/)
+- Who: [Mio Q](https://twitter.com/miamaruq)
+- Github: [https://github.com/MioQuispe/create-ic-app/](https://github.com/MioQuispe/create-ic-app/)
+
 **DAB**
 
 - What: DAB provides seamless access to #InternetComputer data that many apps/UI's need to surface. Such as lists of NFT's, tokens, canister/Dapp metadata, and more.
@@ -150,6 +157,12 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Who: [Dylan Miller](https://github.com/dylancm4)
 - Twitter: [https://twitter.com/dfinityexplorer](https://twitter.com/dfinityexplorer)
 - Github: [https://github.com/dfinityexplorer/dfinityexplorer-dashboard](https://github.com/dfinityexplorer/dfinityexplorer-dashboard)
+
+**DFINITY Java Agent**
+
+- What: Dfinity Java Agent is a set of native Java libriaries to connect remotely to the Internet Computer applications
+- Github: [https://github.com/rdobrik/dfinity-agent](https://github.com/rdobrik/dfinity-agent)
+- Who: [Roman](https://github.com/rdobrik)
 
 **Dstar**
 
@@ -225,7 +238,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [Mototko School on Youtube](https://www.youtube.com/channel/UCS2Y9oRMpBfVqAnChFoXepg)
 - Twitter: [https://twitter.com/MotokoSchool](https://twitter.com/MotokoSchool)
 
-## DeFi (11)
+## DeFi (14)
 
 **Bauction**
 
@@ -298,6 +311,11 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Discord: [https://discord.com/invite/3F8CYyPpHq](https://discord.com/invite/3F8CYyPpHq)
 - Github: [https://docs.icp-20.com/](https://docs.icp-20.com/)
 
+**RFL**
+
+- What: Random Fair Lottery on IC
+- Twitter: [https://twitter.com/RFL_app](https://twitter.com/RFL_app)
+
 **Sailfish**
 
 - What: The gateway to open financial services on the Internet Computer
@@ -305,13 +323,27 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Twitter: [https://twitter.com/Sailfishapp](https://twitter.com/Sailfishapp)
 - Discord: [https://discord.com/invite/7Wbqucc](https://discord.com/invite/7Wbqucc)
 
+**Sonic**
+
+- What: Swap tokens, earn fees as a liquidity provider, & build on the Internet Computer’s AMM
+- Where: [https://sonic.ooo/](https://sonic.ooo/)
+- Twitter: [https://twitter.com/sonic_ooo](https://twitter.com/sonic_ooo)
+- Discord: [https://discord.com/invite/EkmnRd99h6](https://discord.com/invite/EkmnRd99h6)
+
+**SupraOracles**
+
+- What: Bridging real-world data to automate, simplify, and secure the #smartcontracts of financial markets
+- Where: [https://www.supraoracles.com/](https://www.supraoracles.com/)
+- Twitter: [https://twitter.com/SupraOracles](https://twitter.com/SupraOracles)
+- Telegram: [https://t.me/supraoracles](https://t.me/supraoracles)
+
 **Uniswap Front End on the IC**
 
 - What: Uniswap front end hosted on the Internet Computer through Fleek. Showing how traditional DeFi solutions can now be hosted completely on-chain by using the Internet Computer blockchain. Another use case of completely decentralizing a service which currently has a centralized front end.
 - Where: [https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap](https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap)
 - Who: [fleek](https://fleek.co/)
 
-## NFT (31)
+## NFT (35)
 
 **Crowd Created Canvas (CCC)***
 
@@ -335,11 +367,29 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Twitter: [https://twitter.com/ICApeVentures](https://twitter.com/ICApeVentures)
 - Discord: [https://discord.com/invite/icapeventures](https://discord.com/invite/icapeventures)
 
+**ICPets | Infinity Pets**
+
+- What: 11,111 of Infinity Pets 🐧 | Community Gain Focused NFT collection living on #ICP Blockchain
+- Where: [https://icpets.io/](https://icpets.io/)
+- Twitter: [https://twitter.com/icpets_nft](https://twitter.com/icpets_nft)
+- Discord: [https://discord.com/invite/nD9HqPQ7](https://discord.com/invite/nD9HqPQ7)
+
 **IC Photographers**
 
 - What: At IC photographers, the aim is to bring both creator and collector together. We endeavour to show talented artists to the collectors of photography NFT’s.
 - Where: [https://www.icphotographers.com/](https://www.icphotographers.com/)
 - Who: [Oli](https://twitter.com/olisav)
+
+**ICPics**
+
+- What: An NFT collection of 1,000 pieces of trival artwork on IC
+- Twitter: [https://twitter.com/ethnICPic](https://twitter.com/ethnICPic)
+- Discord: [https://discord.com/invite/gauQWrV2b4](https://discord.com/invite/gauQWrV2b4)
+
+**ICPumpkin NFT**
+
+- What: NFT pumpkins for Halloween on IC
+- Twitter: [https://twitter.com/ICPumpkin](https://twitter.com/ICPumpkin)
 
 **Dfinity Bulls NFT**
 
@@ -417,6 +467,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 
 - What: Home of the Metaverse. 9999 unique 3D Moonwalker NFTs
 - Where: [https://gan2q-ciaaa-aaaai-aanoq-cai.raw.ic0.app/](https://gan2q-ciaaa-aaaai-aanoq-cai.raw.ic0.app/)
+- Who: [Cipher Proxy](https://twitter.com/CipherProxyLLC)
 - Twitter: [https://twitter.com/ic_gallery](https://twitter.com/ic_gallery)
 - Discord: [https://discord.com/invite/6VWZNzskPA](https://discord.com/invite/6VWZNzskPA)
 
@@ -536,9 +587,9 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [http://www.enteryoloclub.com/](http://www.enteryoloclub.com/)
 - Twitter: [https://twitter.com/EnterYoloClub](https://twitter.com/EnterYoloClub)
 
-## Social (9)
+## Social (10)
 
-**crowdEasts**
+**crowdEats**
 
 - What: Yelp on IC, owned by users
 - Where: [https://www.crowdeats.io/](https://www.crowdeats.io/)
@@ -563,6 +614,11 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Twitter: [https://twitter.com/DistriktApp](https://twitter.com/DistriktApp)
 - Telegram: [https://t.me/DistriktApp](https://t.me/DistriktApp)
 - Newsletter: [https://medium.com/distrikt](https://medium.com/distrikt)
+
+**DSocial**
+
+- What: Decentralized Youtube on IC
+- Twitter: [https://twitter.com/DSocialApp](https://twitter.com/DSocialApp)
 
 **ICPMeet**
 
@@ -696,7 +752,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://www.xrfoundation.io/](https://www.xrfoundation.io/)
 - Github: [https://github.com/XRFoundation/XREngine](https://github.com/XRFoundation/XREngine)
 
-## Productivity (8)
+## Productivity (9)
 
 **Aedile**
 
@@ -740,6 +796,14 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Who: [Relation Labs](https://twitter.com/relationlabs)
 - Twitter: [https://twitter.com/relationlabs](https://twitter.com/relationlabs)
 - Other: [Grand Slam winner of 7th Wanxiang Blockchain Hackathon](https://twitter.com/herbertyang/status/1454780835379384326)
+
+**ICEvent**
+
+- What: an open event service built on IC
+- Where:
+	- [https://icevent.vercel.app](https://icevent.vercel.app)
+	- [https://znisf-eqaaa-aaaaj-aabta-cai.raw.ic0.app/](https://znisf-eqaaa-aaaaj-aabta-cai.raw.ic0.app/)
+- Twitter: [https://twitter.com/vansdaynet](https://twitter.com/vansdaynet)
 
 **Nuance**
 
@@ -785,7 +849,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://thublockchain.org/](https://thublockchain.org/)
 - Who: Tsinghua University Students Blockchain Association
 
-## Enterprise (8)
+## Enterprise (9)
 
 **Agryo**
 
@@ -811,6 +875,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 	- [https://agnoo-nqaaa-aaaah-aaq4q-cai.ic0.app/](https://agnoo-nqaaa-aaaah-aaq4q-cai.ic0.app/)
 	- [https://dservice.app](https://dservice.app)
 - Twitter: [https://twitter.com/dServiceApp](https://twitter.com/dServiceApp)
+
+**Get Impact Now**
+
+- What: The politics platform that enables you to change the world
+- Where: [https://getimpactnow.org/](https://getimpactnow.org/)
+- Twitter: [https://twitter.com/getimpactnow](https://twitter.com/getimpactnow)
+- Github: [https://github.com/getimpactnow/getimpactnow/](https://github.com/getimpactnow/getimpactnow/)
 
 **Optex**
 
