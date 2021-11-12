@@ -5,14 +5,14 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 
 ![dfn logl](https://1082-xyz.s3.us-west-1.amazonaws.com/dfn_logo.png)
 
-Total # of IC dApps indexed: `122` as last updated on `Nov 4, 2021`. This is not a complete list yet and more will be added in the coming days.
+Total # of IC dApps indexed: `133` as last updated on `Nov 12, 2021`. This is not a complete list yet and more will be added in the coming days.
 
 - Essential (`3`)
-- Wallet (`4`)
-- Tools (`18`)
+- Wallet (`5`)
+- Tools (`23`)
 - Motoko (`3`)
 - DeFi (`14`)
-- NFT (`35`)
+- NFT (`40`)
 - Social (`10`)
 - Games (`10`)
 - Metaverse (`3`)
@@ -53,7 +53,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://nns.ic0.app/](https://nns.ic0.app/)
 - Who: [DFINITY Foundation](https://dfinity.org)
 
-## Wallet (4)
+## Wallet (5)
 
 **ICWallet**
 
@@ -62,6 +62,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Twitter: [https://twitter.com/icwallet](https://twitter.com/icwallet)
 - Who: [https://icwallet.gitbook.io/icwallet/team](https://icwallet.gitbook.io/icwallet/team)
 - Discord: [https://discord.com/invite/DqCeHU8rem](https://discord.com/invite/DqCeHU8rem)
+
+**DFWallet**
+
+- What: a decentralized smart wallet on Internet Computer
+- Where: [https://dfwallet.ooo/](https://dfwallet.ooo/)
+- Twitter: [https://twitter.com/DFWallet](https://twitter.com/DFWallet)
+- Telegram: [https://t.me/df_wallet](https://t.me/df_wallet)
 
 **Plug**
 
@@ -87,7 +94,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Telegram: [https://t.me/earthwallet](https://t.me/earthwallet)
 - Github: [https://github.com/earth-association](https://github.com/earth-association)
 
-## Tools (18)
+## Tools (23)
 
 **AstroX**
 
@@ -125,6 +132,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Twitter: [https://twitter.com/canistore](https://twitter.com/canistore)
 - Telegram: [https://t.me/canistore](https://t.me/canistore)
 - Medium: [https://medium.com/@canistore](https://medium.com/@canistore)
+
+**CAP**
+
+- What: an open internet service providing transaction history & asset provenance for NFT’s & Tokens on the Internet Computer
+- Where: [https://cap.ooo/](https://cap.ooo/)
+- Twitter: [https://twitter.com/cap_ois](https://twitter.com/cap_ois)
+- Discord: [https://discord.gg/psychedelic](https://discord.gg/psychedelic)
 
 **ChainIDE**
 
@@ -164,6 +178,18 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Github: [https://github.com/rdobrik/dfinity-agent](https://github.com/rdobrik/dfinity-agent)
 - Who: [Roman](https://github.com/rdobrik)
 
+**DFT - Dfinity Fungible Token Standard**
+
+- What: Token standard will help Dfinity ecological developers adopt the same standard and promote the prosperity of the Dfinity ecosystem
+- Where: [https://dft.delandlabs.com/](https://dft.delandlabs.com/)
+- Who: [Deland Labs](https://twitter.com/DelandLabs)
+
+**Dfinity Tutorials**
+
+- What: Chinese tutorials that teach you how to build on IC
+- Where: [https://icplabs.gitbook.io/dfinitytutorials/](https://icplabs.gitbook.io/dfinitytutorials/)
+- Who: [ICP Labs](https://twitter.com/ICP_Labs)
+
 **Dstar**
 
 - What: a marketplace that facilitates listing, buying and selling of your Internet Identity ("II") accounts 
@@ -171,6 +197,12 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 	- [https://ii.dstar.app](https://ii.dstar.app)
 	- [https://yunqk-aqaaa-aaaai-qawva-cai.ic0.app/](https://yunqk-aqaaa-aaaai-qawva-cai.ic0.app/)
 - Github: [https://github.com/ic-dstar/](https://github.com/ic-dstar/)
+
+**EXT Token Tool**
+
+- What: EXT is a token standard that we built on the IC, modelled after Ethereum's ERC1155 standard
+- Where: [https://k6exx-uqaaa-aaaah-qadba-cai.raw.ic0.app/](https://k6exx-uqaaa-aaaah-qadba-cai.raw.ic0.app/)
+- Who:[Toniq Labs](https://twitter.com/toniqlabs)
 
 **Fleek**
 
@@ -192,6 +224,12 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://networknervoussystem.com/](https://networknervoussystem.com/)
 - Twitter: [https://twitter.com/NNSystem](https://twitter.com/NNSystem)
 - Newsletter: [https://allthingsinternetcomputer.substack.com/](https://allthingsinternetcomputer.substack.com/)
+
+**ICP Scan**
+
+- What: A scanner and dashboard tool for IC ecosystem to discover ICP projects and track key statistics
+- Where: [https://sznps-4aaaa-aaaah-qab2a-cai.ic0.app/project](https://sznps-4aaaa-aaaah-qab2a-cai.ic0.app/project)
+- Who: [NnsDAO](https://twitter.com/NnsDaos)
 
 **IC Rocks**
 
@@ -343,7 +381,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap](https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap)
 - Who: [fleek](https://fleek.co/)
 
-## NFT (35)
+## NFT (40)
 
 **Crowd Created Canvas (CCC)***
 
@@ -359,6 +397,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Who: [Toniq Labs](https://igpeu-waaaa-aaaad-qaava-cai.raw.ic0.app/)
 - Twitter: [https://twitter.com/CronicsP2E](https://twitter.com/CronicsP2E)
 - Telegram: [https://t.me/cronic_talk](https://t.me/cronic_talk)
+
+**cubic**
+
+- What: Cubic is a generative art project. Data such as ownership history and transaction history are used in different ways to generate unique canvases in a variety of styles.
+- Where: [https://cubic.place/](https://cubic.place/)
+- Github: [https://github.com/FloorLamp/cubic](https://github.com/FloorLamp/cubic)
+- Telegram: [https://t.me/cubicplace](https://t.me/cubicplace)
 
 **IC Ape Ventures**
 
@@ -457,6 +502,14 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://rdbii-uiaaa-aaaab-qadva-cai.raw.ic0.app/](https://rdbii-uiaaa-aaaab-qadva-cai.raw.ic0.app/)
 - Who: [Kyle Peacock](https://twitter.com/kylpeacock)
 
+**IC Cards**
+
+- What: IC Cards is an NFT-based game on the IC Protocol. Gather, craft, level, and prepare yourself for a world full of monsters and villains.
+- Where:
+	- [ic.cards](ic.cards)
+	- [https://tbhsl-lqaaa-aaaaj-qagzq-cai.ic0.app/](https://tbhsl-lqaaa-aaaaj-qagzq-cai.ic0.app/)
+- Twitter: [https://twitter.com/ic_cards](https://twitter.com/ic_cards)
+
 **ICelebrity**
 
 - What: 100 Uniquely Minted handmade artistic representation of the people we know and love!
@@ -470,6 +523,12 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Who: [Cipher Proxy](https://twitter.com/CipherProxyLLC)
 - Twitter: [https://twitter.com/ic_gallery](https://twitter.com/ic_gallery)
 - Discord: [https://discord.com/invite/6VWZNzskPA](https://discord.com/invite/6VWZNzskPA)
+
+**ICircle NFT**
+
+- What: 8888 Generative Art NFTs Launch Soon in #InternetComputer | Math + Art = Beautiful
+- Twitter: [https://twitter.com/icircle_nft](https://twitter.com/icircle_nft)
+- Discord: [https://discord.io/ICircle_NFT](https://discord.io/ICircle_NFT)
 
 **ICP Art**
 
@@ -506,6 +565,12 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://xn--4n8h7h.ws/](https://xn--4n8h7h.ws/)
 - Twitter: [https://twitter.com/ICSnakes](https://twitter.com/ICSnakes)
 - Discord: [https://discord.com/invite/H9YUpwVrkQ](https://discord.com/invite/H9YUpwVrkQ)
+
+**IC Turtles**
+
+- What: Customizable and breedable NFTS, powered by GameFi and P2E, dropping with accessories included
+- Twitter:[https://twitter.com/ic_turtles](https://twitter.com/ic_turtles)
+- Discord:[https://discord.com/invite/n77xjyspDR](https://discord.com/invite/n77xjyspDR)
 
 **ICTuts**
 
@@ -561,9 +626,9 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 	- [https://nntkg-vqaaa-aaaad-qamfa-cai.ic.fleek.co/](https://nntkg-vqaaa-aaaad-qamfa-cai.ic.fleek.co/)
 - Twitter: [https://twitter.com/NFT_Village](https://twitter.com/NFT_Village)
 
-**Pokded Studio**
+**Pokded Studio BOTS**
 
-- What: CHARACTERS! UN-game_land - animation - coming soon
+- What: A collection of 10,000 individual ROBOTS
 - Twitter: [https://twitter.com/pokedstudiouk](https://twitter.com/pokedstudiouk)
 - Discord: [https://discord.com/invite/PokedStudioNFT](https://discord.com/invite/PokedStudioNFT)
 
@@ -580,6 +645,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://theswordnft.com/](https://theswordnft.com/)
 - Twitter: [https://twitter.com/TheSwordNft](https://twitter.com/TheSwordNft)
 - Discord: [https://discord.com/invite/Xgc5zTrdSb](https://discord.com/invite/Xgc5zTrdSb)
+
+**Wild and West NFT**
+
+- What: A wild west themed NFT project
+- Where: [https://wildandwest.com/](https://wildandwest.com/)
+- Twitter: [https://twitter.com/WildandWestNFT](https://twitter.com/WildandWestNFT)
+- Discord: [https://discord.com/invite/wildandwest](https://discord.com/invite/wildandwest)
 
 **Yolo Octopus**
 
