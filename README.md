@@ -5,14 +5,14 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 
 ![dfn logl](https://1082-xyz.s3.us-west-1.amazonaws.com/dfn_logo.png)
 
-Total # of IC dApps indexed: `133` as last updated on `Nov 12, 2021`. This is not a complete list yet and more will be added in the coming days.
+Total # of IC dApps indexed: `138` as last updated on `Nov 22, 2021`. This is not a complete list yet and more will be added in the coming days.
 
 - Essential (`3`)
 - Wallet (`5`)
-- Tools (`23`)
-- Motoko (`3`)
-- DeFi (`14`)
-- NFT (`40`)
+- Tools (`25`)
+- Motoko (`4`)
+- DeFi (`13`)
+- NFT (`43`)
 - Social (`10`)
 - Games (`10`)
 - Metaverse (`3`)
@@ -94,7 +94,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Telegram: [https://t.me/earthwallet](https://t.me/earthwallet)
 - Github: [https://github.com/earth-association](https://github.com/earth-association)
 
-## Tools (23)
+## Tools (25)
 
 **AstroX**
 
@@ -149,6 +149,14 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Medium: [https://t.co/ODqRqGNUoG?amp=1](https://t.co/ODqRqGNUoG?amp=1)
 - Github: [https://github.com/WhiteMatrixTech](https://github.com/WhiteMatrixTech)
 - DFINITY Grant: received in May 2021
+
+**Cover**
+
+- What: an open internet service that can be used by developers to verify and prove that a canister's code matches the open source code. Reducing the risk of malicious apps & increasing transparency and trust.
+- Where: [https://covercode.ooo/](https://covercode.ooo/)
+- Twitter: [https://twitter.com/cover_ois](https://twitter.com/cover_ois)
+- Discord: [https://discord.gg/yVEcEzmrgm](https://discord.gg/yVEcEzmrgm)
+- Github: [https://github.com/psychedelic/cover](https://github.com/psychedelic/cover)
 
 **Create IC**
 
@@ -251,6 +259,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Twitter: [https://twitter.com/lastmjs](https://twitter.com/lastmjs)
 - Github: [https://github.com/sudograph/sudograph](https://github.com/sudograph/sudograph)
 
+**Usergeek**
+
+- What: the first decentralised product analytics tool built on the DFINITY Internet Computer
+- Where: [https://fbbjb-oyaaa-aaaah-qaojq-cai.raw.ic0.app/#/](https://fbbjb-oyaaa-aaaah-qaojq-cai.raw.ic0.app/#/)
+- Twitter: [https://twitter.com/theUSERGEEK](https://twitter.com/theUSERGEEK)
+- Discord: [https://discord.gg/CvTpv2TeKs](https://discord.gg/CvTpv2TeKs)
+
 **The Wall**
 
 - What: The Wall is a dapp built on the Internet Computer blockchain, which blends Ethereum's MetaMask authentication with the Internet Computer's native Internet Identity blockchain authentication system. This first example of ETH x ICP allows users to leave any message on the wall for all eternity.
@@ -258,7 +273,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Github: [https://github.com/kristoferlund/ic-wall](https://github.com/kristoferlund/ic-wall)
 - Who: [Kristofer Lund](https://twitter.com/kristoferlund)
 
-## Motoko (3)
+## Motoko (4)
 
 **Block.**
 
@@ -276,7 +291,12 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [Mototko School on Youtube](https://www.youtube.com/channel/UCS2Y9oRMpBfVqAnChFoXepg)
 - Twitter: [https://twitter.com/MotokoSchool](https://twitter.com/MotokoSchool)
 
-## DeFi (14)
+**Motoko Library**
+
+- What: An awesome list of Motoko code and resources curated by the community.
+- Where: [https://github.com/motoko-unofficial/awesome-motoko](https://github.com/motoko-unofficial/awesome-motoko)
+
+## DeFi (13)
 
 **Bauction**
 
@@ -298,14 +318,6 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://dank.ooo/](https://dank.ooo/)
 - Twitter: [https://twitter.com/dank_ois](https://twitter.com/dank_ois)
 - Discord: [https://discord.gg/yVEcEzmrgm](https://discord.gg/yVEcEzmrgm)
-
-**Dfinance**
-
-- What: DFinance is building open financial infrastructure on the Internet Computer. With DeFi products, swaps, unified token standards, token issuance, and token management DFinance is one of the first open and decentralized financial solutions on the Internet Computer.
-- Where: [https://dfinance.ai/](https://dfinance.ai/)
-- Twitter: [https://twitter.com/DFinance_AI](https://twitter.com/DFinance_AI)
-- Discord: [https://discord.gg/EkmnRd99h6](https://discord.gg/EkmnRd99h6)
-- Github: [https://github.com/dfinance-tech](https://github.com/dfinance-tech)
 
 **EnsoFinance**
 
@@ -381,7 +393,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap](https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap)
 - Who: [fleek](https://fleek.co/)
 
-## NFT (40)
+## NFT (43)
 
 **Crowd Created Canvas (CCC)***
 
@@ -405,12 +417,25 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Github: [https://github.com/FloorLamp/cubic](https://github.com/FloorLamp/cubic)
 - Telegram: [https://t.me/cubicplace](https://t.me/cubicplace)
 
+**CYMAN**
+
+- What: 10,000 Randomly generated cybernetic humanoid's from 550,000,000 BCE built on the Internet Computer
+- Where: [https://www.cyman.live/](https://www.cyman.live/)
+- Twitter: [https://twitter.com/cyman_live](https://twitter.com/cyman_live)
+- Discord: [https://discord.com/invite/cyman](https://discord.com/invite/cyman)
+
 **IC Ape Ventures**
 
 - What: 10,000 Unique Apes are getting ready to take their first steps in to the #ICP ecosystem
 - Where: [https://icapeventures.com/](https://icapeventures.com/)
 - Twitter: [https://twitter.com/ICApeVentures](https://twitter.com/ICApeVentures)
 - Discord: [https://discord.com/invite/icapeventures](https://discord.com/invite/icapeventures)
+
+**ICKitties**
+
+- What: 10,000 8-bit kitties on IC
+- Twitter: [https://twitter.com/ICKitties](https://twitter.com/ICKitties)
+- Discord: [https://discord.com/invite/r2c4TTr4un](https://discord.com/invite/r2c4TTr4un)
 
 **ICPets | Infinity Pets**
 
@@ -430,6 +455,11 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - What: An NFT collection of 1,000 pieces of trival artwork on IC
 - Twitter: [https://twitter.com/ethnICPic](https://twitter.com/ethnICPic)
 - Discord: [https://discord.com/invite/gauQWrV2b4](https://discord.com/invite/gauQWrV2b4)
+
+**ICPrime8s**
+
+- What: 5 releases of Prime8 focused, randomly generated NFTs on the Internet Computer 
+- Twitter: [https://twitter.com/ICPrime8s](https://twitter.com/ICPrime8s)
 
 **ICPumpkin NFT**
 
