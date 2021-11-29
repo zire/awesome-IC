@@ -5,18 +5,18 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 
 ![dfn logl](https://1082-xyz.s3.us-west-1.amazonaws.com/dfn_logo.png)
 
-Total # of IC dApps indexed: `138` as last updated on `Nov 22, 2021`. This is not a complete list yet and more will be added in the coming days.
+Total # of IC dApps indexed: `143` as last updated on `Nov 29, 2021`. More will be added in the coming days as they reveal themselves.
 
 - Essential (`3`)
 - Wallet (`5`)
-- Tools (`25`)
+- Tools (`26`)
 - Motoko (`4`)
 - DeFi (`13`)
 - NFT (`43`)
-- Social (`10`)
+- Social (`11`)
 - Games (`10`)
 - Metaverse (`3`)
-- Productivity (`9`)
+- Productivity (`12`)
 - Communities (`4`)
 - Enterprise (`9`)
 
@@ -94,7 +94,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Telegram: [https://t.me/earthwallet](https://t.me/earthwallet)
 - Github: [https://github.com/earth-association](https://github.com/earth-association)
 
-## Tools (25)
+## Tools (26)
 
 **AstroX**
 
@@ -219,6 +219,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Twitter: [https://twitter.com/fleek_ois](https://twitter.com/fleek_ois)
 - Discord: [https://discord.gg/yVEcEzmrgm](https://discord.gg/yVEcEzmrgm)
 - Github: [https://github.com/FleekHQ](https://github.com/FleekHQ)
+
+**ICLight.house**
+
+- What: A standard interface for Dfinity tokens. The standard complies with ERC20 interface specification, and has some improvements to match IC network features
+- Where: [https://iclight.house/login](https://iclight.house/login)
+- Twitter: [https://twitter.com/ICLighthouse](https://twitter.com/ICLighthouse)
+- Github: [https://github.com/iclighthouse/DRC_standards](https://github.com/iclighthouse/DRC_standards)
 
 **ICME**
 
@@ -689,7 +696,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [http://www.enteryoloclub.com/](http://www.enteryoloclub.com/)
 - Twitter: [https://twitter.com/EnterYoloClub](https://twitter.com/EnterYoloClub)
 
-## Social (10)
+## Social (11)
 
 **crowdEats**
 
@@ -765,6 +772,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Twitter: [https://twitter.com/OverchuteApp](https://twitter.com/OverchuteApp)
 - Github: [https://github.com/Overchute](https://github.com/Overchute)
 
+**Party Board**
+
+- What: Multi-chain metaverse social network
+- Twitter: [https://twitter.com/party_board](https://twitter.com/party_board)
+- Telegram: [https://t.me/partyboard_en](https://t.me/partyboard_en)
+- Discord: [https://discord.com/invite/kewhcJM4uf](https://discord.com/invite/kewhcJM4uf)
+
 ## Games (10)
 
 **Cube Run**
@@ -810,10 +824,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Who: [Toniq Labs](https://igpeu-waaaa-aaaad-qaava-cai.raw.ic0.app/)
 - Twitter: [https://twitter.com/ToniqGames](https://twitter.com/ToniqGames)
 
-**Saga Tarot**
+**Saga**
 
 - What: Have your fortune told on the Internet Computer. Saga Tarot gives you a tarot reading in one click. The user-friendly dapp is built completely on the Internet Computer, accessible from any browser. What will the future hold for you?
-- Where: [https://5nl7c-zqaaa-aaaah-qaa7a-cai.raw.ic0.app/](https://5nl7c-zqaaa-aaaah-qaa7a-cai.raw.ic0.app/)
+- Twitter: [https://twitter.com/SagaCards](https://twitter.com/SagaCards)
+- Where:
+	- [https://legends.saga.cards/](https://legends.saga.cards/)
+	-  [https://5nl7c-zqaaa-aaaah-qaa7a-cai.raw.ic0.app/](https://5nl7c-zqaaa-aaaah-qaa7a-cai.raw.ic0.app/)
 
 **Texas Hold'em**
 
@@ -854,7 +871,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://www.xrfoundation.io/](https://www.xrfoundation.io/)
 - Github: [https://github.com/XRFoundation/XREngine](https://github.com/XRFoundation/XREngine)
 
-## Productivity (9)
+## Productivity (12)
 
 **Aedile**
 
@@ -868,12 +885,11 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - What: Create, Collaborate, and Earn on the Subscription Platform controlled by Creators.
 - Twitter: [https://twitter.com/GetBunchd](https://twitter.com/GetBunchd)
 
-**IC Drive**
+**Dbox**
 
-- What: A decentralized private file storage dapp built on the Internet Computer. Store and securely share any type from anywhere in the world with this decentralized version of Box, or Google Drive.
-- Where: [https://icdrive.co](https://icdrive.co)
-- Who: [https://twitter.com/nanditmehra](https://twitter.com/nanditmehra)
-- Twitter: [https://twitter.com/icDrive](https://twitter.com/icDrive)
+- What: decentralized inbox built on Internet Computer
+- Where: [https://www.dbox.foundation/](https://www.dbox.foundation/)
+- Twitter: [https://twitter.com/DBOXFoundation](https://twitter.com/DBOXFoundation)
 
 **DeckDeckGo**
 
@@ -899,6 +915,13 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Twitter: [https://twitter.com/relationlabs](https://twitter.com/relationlabs)
 - Other: [Grand Slam winner of 7th Wanxiang Blockchain Hackathon](https://twitter.com/herbertyang/status/1454780835379384326)
 
+**IC Drive**
+
+- What: A decentralized private file storage dapp built on the Internet Computer. Store and securely share any type from anywhere in the world with this decentralized version of Box, or Google Drive.
+- Where: [https://icdrive.co](https://icdrive.co)
+- Who: [https://twitter.com/nanditmehra](https://twitter.com/nanditmehra)
+- Twitter: [https://twitter.com/icDrive](https://twitter.com/icDrive)
+
 **ICEvent**
 
 - What: an open event service built on IC
@@ -914,6 +937,20 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Who: [AIKIN](https://www.aikin.io/)
 - Twitter: [https://twitter.com/AikinDApps](https://twitter.com/AikinDApps)
 - Discord: [https://discord.gg/2dPCPu6zxz](https://discord.gg/2dPCPu6zxz)
+
+**Photos by Functionland**
+
+- What: Photos is a react-native(expo)+typescript application to replace Google Photos/Apple Photos, and give freedom in hosting your photos on any platform, either centralized servers like Amazon or Microsoft, or decentralized solutions such as Dfinity or IPFS-based "box"
+- Where: [https://fx.land/](https://fx.land/)
+- Twitter: [https://twitter.com/functionland](https://twitter.com/functionland)
+- Telegram: [https://t.me/functionlanders](https://t.me/functionlanders)
+- Github: [https://github.com/functionland/photos](https://github.com/functionland/photos)
+
+**Quark**
+
+- What: Quark is an open internet service facilitating payments on the Internet Computer like Stripe or Paypal
+- Where: [https://ebgyc-nqaaa-aaaaf-qad6q-cai.ic0.app/](https://ebgyc-nqaaa-aaaaf-qad6q-cai.ic0.app/)
+- Github: [https://github.com/SuddenlyHazel](https://github.com/SuddenlyHazel)
 
 **Waterslide.app**
 
