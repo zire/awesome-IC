@@ -5,7 +5,7 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 
 ![dfn logl](https://1082-xyz.s3.us-west-1.amazonaws.com/dfn_logo.png)
 
-Total # of IC dApps indexed: `143` as last updated on `Nov 29, 2021`. More will be added in the coming days as they reveal themselves.
+Total # of IC dApps indexed: `142` as last updated on `Dec 14, 2021`. More will be added in the coming days as they reveal themselves.
 
 - Essential (`3`)
 - Wallet (`5`)
@@ -17,7 +17,7 @@ Total # of IC dApps indexed: `143` as last updated on `Nov 29, 2021`. More will 
 - Games (`10`)
 - Metaverse (`3`)
 - Productivity (`12`)
-- Communities (`4`)
+- Communities (`3`)
 - Enterprise (`9`)
 
 This page tries to capture key info for each project, including its tag line, IC URL, Twitter, Discord, Telegram, Github repo and the team behind. For those projects with Twitter handles, they can also be found at:
@@ -958,14 +958,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://waterslide.app/](https://waterslide.app/)
 - Twitter: [https://twitter.com/waterslide_app](https://twitter.com/waterslide_app)
 
-## Communities (4)
-
-**DfiStarter**
-
-- What: The first project accelerator on Dfinity, providing fund raise, PR&Marketing, tech support to projects on Dfinity
-- Where: [https://dfistarter.io/](https://dfistarter.io/)
-- Twitter: [https://twitter.com/DfiStarterPad](https://twitter.com/DfiStarterPad)
-- Telegram: [https://t.me/DfiStarterPublish](https://t.me/DfiStarterPublish)
+## Communities (3)
 
 **ICP123**
 
