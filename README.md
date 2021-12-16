@@ -5,14 +5,14 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 
 ![dfn logl](https://1082-xyz.s3.us-west-1.amazonaws.com/dfn_logo.png)
 
-Total # of IC dApps indexed: `142` as last updated on `Dec 14, 2021`. More will be added in the coming days as they reveal themselves.
+Total # of IC dApps indexed: `141` as last updated on `Dec 16, 2021`. More will be added in the coming days as they reveal themselves.
 
 - Essential (`3`)
 - Wallet (`5`)
 - Tools (`26`)
 - Motoko (`4`)
 - DeFi (`13`)
-- NFT (`43`)
+- NFT (`42`)
 - Social (`11`)
 - Games (`10`)
 - Metaverse (`3`)
@@ -400,7 +400,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap](https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap)
 - Who: [fleek](https://fleek.co/)
 
-## NFT (43)
+## NFT (42)
 
 **Crowd Created Canvas (CCC)***
 
@@ -608,13 +608,6 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - What: Customizable and breedable NFTS, powered by GameFi and P2E, dropping with accessories included
 - Twitter:[https://twitter.com/ic_turtles](https://twitter.com/ic_turtles)
 - Discord:[https://discord.com/invite/n77xjyspDR](https://discord.com/invite/n77xjyspDR)
-
-**ICTuts**
-
-- What: 1st pharaohs NFTs in the world ExCLUSIVE @ #ICP  10,000 randomly generated TuTs ( king TuT ).
-- Where: [https://ictuts.com/](https://ictuts.com/)
-- Twitter: [https://twitter.com/ICTuTs](https://twitter.com/ICTuTs)
-- Discord: [https://discord.com/invite/sMByysB3Tf](https://discord.com/invite/sMByysB3Tf)
 
 **Inferval Vampire Colony**
 
