@@ -92,7 +92,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Twitter: [https://twitter.com/earthwallet](https://twitter.com/earthwallet)
 - Discord: [https://discord.gg/B8G75XZ92K](https://discord.gg/B8G75XZ92K)
 - Telegram: [https://t.me/earthwallet](https://t.me/earthwallet)
-- Github: [https://github.com/earth-association](https://github.com/earth-association)
+- Github: [https://github.com/earthdao/wallet](https://github.com/earthdao/wallet)
 
 ## Tools (26)
 
