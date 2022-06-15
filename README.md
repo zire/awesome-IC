@@ -713,6 +713,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Dapp:
 	- [https://distrikt.app](https://distrikt.app)
 	- [https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/](https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/)
+	- Subnet [shefu-t3kr5-t5q3w-mqmdq-jabyv-vyvtf-cyyey-3kmo4-toyln-emubw-4qe](https://dashboard.internetcomputer.org/subnet/shefu-t3kr5-t5q3w-mqmdq-jabyv-vyvtf-cyyey-3kmo4-toyln-emubw-4qe)
 - Twitter: [https://twitter.com/DistriktApp](https://twitter.com/DistriktApp)
 - Telegram: [https://t.me/DistriktApp](https://t.me/DistriktApp)
 - Newsletter: [https://medium.com/distrikt](https://medium.com/distrikt)
@@ -721,6 +722,9 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 
 - What: Decentralized Youtube on IC
 - Twitter: [https://twitter.com/DSocialApp](https://twitter.com/DSocialApp)
+- Dapp:
+	- Canister: [https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/](https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/)
+	- Subnet: [mpubz-g52jc-grhjo-5oze5-qcj74-sex34-omprz-ivnsm-qvvhr-rfzpv-vae](https://dashboard.internetcomputer.org/subnet/mpubz-g52jc-grhjo-5oze5-qcj74-sex34-omprz-ivnsm-qvvhr-rfzpv-vae)
 
 **ICPMeet**
 
@@ -757,6 +761,9 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - What: Decentralized messaging has been a pipe-dream for decades. With the advent of the Internet Computer, real-time messaging is now possible on a blockchain.
 - Where: [https://oc.app](https://oc.app)
 - Twitter: [https://twitter.com/OpenChat](https://twitter.com/OpenChat)
+- Dapp:
+	- [https://6hsbt-vqaaa-aaaaf-aaafq-cai.ic0.app/](https://6hsbt-vqaaa-aaaaf-aaafq-cai.ic0.app/)
+	- Subnet: [eq6en-6jqla-fbu5s-daskr-h6hx2-376n5-iqabl-qgrng-gfqmv-n3yjr-mqe](https://dashboard.internetcomputer.org/subnet/eq6en-6jqla-fbu5s-daskr-h6hx2-376n5-iqabl-qgrng-gfqmv-n3yjr-mqe)
 
 **Overchute**
 
