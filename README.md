@@ -26,7 +26,7 @@ This list includes all the projects from [DFINITY Showcase](https://dfinity.org/
 
 If you find an IC dApp is still missing from this page, please [send a PR to its Github repo](https://github.com/zire/awesome-IC) so that I can merge, or [DM me on Twitter](https://twitter.com/herbertyang), or [send me an email](mailto: herbert.yang@dfinity.org?subject=More dApp on Awesome IC). Suggestions on how to make this site more useful to the community are always welcome. Many thanks. 
 
-For those projects with Twitter handles, they can also be found at [IC Projects - All list on Twitter](https://twitter.com/i/lists/1443165233510436868).
+For those projects with Twitter handles, they can also be found at ["IC Projects - All" list on Twitter](https://twitter.com/i/lists/1443165233510436868).
 
 **DISCLAIMER**
 >This **`Awesome Internet Computer` or `Awesome IC`** is a community project by IC volunteer(s). It's merely an index/directory, and does not represent official endorsement (or lack of) from the DFINITY Foundation in any fashion.  Nothing from this site shall be treated as financial advice. Please do your own research if you need to use any services listed below.
