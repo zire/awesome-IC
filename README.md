@@ -1,11 +1,10 @@
 # Awesome Internet Computer
 
-
 A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Visit [https://zire.github.io/awesome-IC/](https://zire.github.io/awesome-IC/) to view it on desktop or mobile.
 
 ![dfn logl](https://1082-xyz.s3.us-west-1.amazonaws.com/dfn_logo.png)
 
-Total # of IC dApps indexed: `141` as last updated on `Dec 16, 2021`. More will be added in the coming days as they reveal themselves.
+*Last updated on `Oct 28, 2022`*
 
 - [Awesome IC](#awesome-IC)
 	- [Essential](#essential)
@@ -20,32 +19,39 @@ Total # of IC dApps indexed: `141` as last updated on `Dec 16, 2021`. More will 
 	- [Productivity](#productivity)
 	- [Community](#community)
 	- [Enterprise Solution](#enterprise)
+	- [Token Standards](#token-standard)
 	- [NFT](#nft)
 
-This page tries to capture key info for each project, including its tag line, IC URL, Twitter, Discord, Telegram, Github repo and the team behind. For those projects with Twitter handles, they can also be found at:
+This list includes all the projects from [DFINITY Showcase](https://dfinity.org/showcase/) but is a lot more than that. It tries to index all the known IC dApps. Some of those projects have received [developer grants from the DFINITY Foundation](https://dfinity.org/grants/). Some of them may not have been deployed on IC yet - though the expectation is that they are working toward that. All info is obtained from public channels. 
 
-> [IC Projects - All@Twitter](https://twitter.com/i/lists/1443165233510436868)
+If you find an IC dApp is still missing from this page, please [send a PR to its Github repo](https://github.com/zire/awesome-IC) so that I can merge, or [DM me on Twitter](https://twitter.com/herbertyang), or [send me an email](mailto: herbert.yang@dfinity.org?subject=More dApp on Awesome IC). Suggestions on how to make this site more useful to the community are always welcome. Many thanks. 
 
-This list includes all the projects from [DFINITY Showcase](https://dfinity.org/showcase/) but is a lot more than that. It tries to index all the known IC dApps. Some of those projects have received [developer grants from the DFINITY Foundation](https://dfinity.org/grants/). Some of them may not have been deployed on IC yet - though the expectation is that they are working toward that. It does not include IC communities, media or development teams per se (though they'll be included under the "project" section). All info is obtained from public channels. 
+For those projects with Twitter handles, they can also be found at [IC Projects - All list on Twitter](https://twitter.com/i/lists/1443165233510436868).
 
-The projects indexed on this list cover a wide spectrum on quality, maturity and tech deployment. Some of them have already received venture funding from established crypto funds; some of them are taking full advantage of Internet Computer (IC)'s unique technical strengths; some of them are using IC as a backend infrastructure in liew of AWS/GCP, and some of them are porting an existing Polkadot/Filecoin application to IC. The inclusion of a project (or lack of) does not speak to the quality of it. That judgment is left to the community and all IC advocates. This is just a directory that helps everyone do scavenger hunt on IC.
-
-If you find an IC dApp is still missing from this page, please [send a PR to its Github repo](https://github.com/zire/awesome-IC) so that I can merge, or [DM me on Twitter](https://twitter.com/herbertyang), or [send me an email](mailto: herbert.yang@dfinity.org?subject=More dApp on Awesome IC). Suggestions on how to make this site more useful to the community are very welcome. Many thanks. 
-
-**DISCLAIMER**: 
->This **`Awesome Internet Computer`** is a community project by IC volunteer(s). It's merely an index/directory, and does not represent official endorsement (or lack of) from the DFINITY Foundation in any fashion.  Nothing from this site shall be treated as financial advice. Please do your own research if you need to use any services listed below.
+**DISCLAIMER**
+>This **`Awesome Internet Computer` or `Awesome IC`** is a community project by IC volunteer(s). It's merely an index/directory, and does not represent official endorsement (or lack of) from the DFINITY Foundation in any fashion.  Nothing from this site shall be treated as financial advice. Please do your own research if you need to use any services listed below.
 
 ## Essential
 
-- [ICA Dashboard](https://dashboard.internetcomputer.org) - Real-Time Network Status for the Internet Computer Protocol
-- [Internet Identity](https://identity.ic0.app) - Authentication framework (aka, Digital ID), used by IC to enable users to access all IC Dapps 
-- [NNS Front-End App](https://nns.ic0.app) - The front-end app built by DFINITY to allow users to stake ICP in neurons and participate in the governance of the Network Nervous System, the DAO that governs the operation of IC.
+- [ICA Dashboard](https://dashboard.internetcomputer.org) - Real-Time Network Status for the Internet Computer Protocol - by [Internet Computer Association](https://internetcomputer.org/)
+- [Internet Identity](https://identity.ic0.app) - Authentication framework (aka, Digital ID), used by IC to enable users to access all IC Dapps - by [DFINITY](https://dfinity.org)
+- [NNS Front-End App](https://nns.ic0.app) - The front-end app built by DFINITY to allow users to stake ICP in neurons and participate in the governance of the Network Nervous System, the DAO that governs the operation of IC - by [DFINITY](https://dfinity.org)
 
 ## Explorer
 
+- [IC Scan](https://icscan.io/) - The most comprehensive explorer for the IC ecosystem - by [Mix Labs](https://twitter.com/mixlabs_) 
+- [ICP Explorer](https://www.icpexplorer.org/#/) - An open-source, community-built dashboard and explorer for IC - by [Dylan Miller](https://www.icpexplorer.org/#/datacenters)
+
 ## Directory
 
+- [CYQL](https://cyql.io) - Curated IC projects registry built on IC that can collect submissions by the community - by [CYQL](https://twitter.com/cyql_icp)
+- [Awesome IC](https://zire.github.io/awesome-IC/) - A list of IC projects and resources that include tools, Dapps, tutorials, communities, NFTs, and media outlets - by [Herbert Yang](https://twitter.com/herbertyang)
+
 ## Wallet
+
+- [Plug](https://plugwallet.ooo) - A browser extension that allows users to access  ICP, cycles, other tokens in IC, and NFTs - by [Psychedelic](https://psychedelic.ooo/)
+- [Stoic](https://stoicwallet.com/) - A multi-purpose crypto wallet for IC to manage tokens, stake ICP, top up canisters & more - by [Toniq Labs](https://twitter.com/toniqlabs)
+- [ME](https://astrox.me/) - A powerful multi-chain wallet to secure your assets without seed phrase across any devices - by [Astrox Network](https://twitter.com/Astrox_Network)
 
 **ICWallet**
 
@@ -61,21 +67,6 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://dfwallet.ooo/](https://dfwallet.ooo/)
 - Twitter: [https://twitter.com/DFWallet](https://twitter.com/DFWallet)
 - Telegram: [https://t.me/df_wallet](https://t.me/df_wallet)
-
-**Plug**
-
-- What: A browser extension that allows you to access your ICP, Cycles and other tokens
-- Where: [https://plugwallet.ooo/](https://plugwallet.ooo/)
-- Who: [fleek](https://fleek.co/)
-- Twitter: [https://twitter.com/plug_wallet](https://twitter.com/plug_wallet)
-- Discord: [https://discord.gg/yVEcEzmrgm](https://discord.gg/yVEcEzmrgm)
-
-**Stoic Wallet**
-
-- What: It allows anyone to create a digital wallet, authenticating users through a variety of methods.
-- Where: [https://www.stoicwallet.com/](https://www.stoicwallet.com/)
-- Who: [Toniq Labs](https://igpeu-waaaa-aaaad-qaava-cai.raw.ic0.app/)
-- Github: [https://github.com/Toniq-Labs/stoic-wallet](https://github.com/Toniq-Labs/stoic-wallet)
 
 **Earth Wallet**
 
@@ -164,13 +155,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Twitter: [https://twitter.com/dab_ooo](https://twitter.com/dab_ooo)
 - Doc: [https://docs.dab.ooo/](https://docs.dab.ooo/)
 
-**DFINITY Explorer**
 
-- What: DFINITY Explorer, a project started in 2018, is an open-source, community-built dashboard and explorer for the Internet Computer, providing live information and statistics about the network, governance, and the ICP utility token, including account and transaction information.
-- Where: [https://www.dfinityexplorer.org/#/](https://www.dfinityexplorer.org/#/)
-- Who: [Dylan Miller](https://github.com/dylancm4)
-- Twitter: [https://twitter.com/dfinityexplorer](https://twitter.com/dfinityexplorer)
-- Github: [https://github.com/dfinityexplorer/dfinityexplorer-dashboard](https://github.com/dfinityexplorer/dfinityexplorer-dashboard)
 
 **DFINITY Java Agent**
 
