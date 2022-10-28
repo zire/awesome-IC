@@ -7,7 +7,7 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 
 Total # of IC dApps indexed: `141` as last updated on `Dec 16, 2021`. More will be added in the coming days as they reveal themselves.
 
-- [Awesome IC](#awesome-ic)
+- [Awesome IC](#awesome-IC)
 	- [Essential](#essential)
 	- [Explorer](#exporer)
 	- [Directory](#directory)
@@ -15,12 +15,12 @@ Total # of IC dApps indexed: `141` as last updated on `Dec 16, 2021`. More will 
 	- [Tool](#tool)
 	- [Motoko](#motoko)
 	- [DeFi](#defi)
-	- [NFT](#nft)
 	- [Social](#social)
 	- [Game/Metaverse](#game-metaverse)
 	- [Productivity](#productivity)
 	- [Community](#community)
 	- [Enterprise Solution](#enterprise)
+	- [NFT](#nft)
 
 This page tries to capture key info for each project, including its tag line, IC URL, Twitter, Discord, Telegram, Github repo and the team behind. For those projects with Twitter handles, they can also be found at:
 
@@ -54,6 +54,10 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - What: The NNS front-end dapp allows anyone to interact with the Internet Computer's Network Nervous System with a user-friendly UI. Served completely end-to-end through blockchain, this dapp allows you to manage ICP, stake neurons, participate in voting, and earn rewards.
 - Where: [https://nns.ic0.app/](https://nns.ic0.app/)
 - Who: [DFINITY Foundation](https://dfinity.org)
+
+## Explorer
+
+## Directory
 
 ## Wallet
 
@@ -96,7 +100,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Telegram: [https://t.me/earthwallet](https://t.me/earthwallet)
 - Github: [https://github.com/earth-association](https://github.com/earth-association)
 
-## Tools (26)
+## Tool
 
 **AstroX**
 
@@ -282,7 +286,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Github: [https://github.com/kristoferlund/ic-wall](https://github.com/kristoferlund/ic-wall)
 - Who: [Kristofer Lund](https://twitter.com/kristoferlund)
 
-## Motoko (4)
+## Motoko
 
 **Block.**
 
@@ -305,7 +309,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - What: An awesome list of Motoko code and resources curated by the community.
 - Where: [https://github.com/motoko-unofficial/awesome-motoko](https://github.com/motoko-unofficial/awesome-motoko)
 
-## DeFi (13)
+## DeFi
 
 **Bauction**
 
@@ -402,7 +406,353 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap](https://lqku6-wqaaa-aaaad-qalmq-cai.ic.fleek.co/#/swap)
 - Who: [fleek](https://fleek.co/)
 
-## NFT (42)
+## Social
+
+**crowdEats**
+
+- What: Yelp on IC, owned by users
+- Where: [https://www.crowdeats.io/](https://www.crowdeats.io/)
+- Twitter: [https://twitter.com/crowdeats_io](https://twitter.com/crowdeats_io)
+- Discord: [https://discord.gg/Cmm7N9pqsK](https://discord.gg/Cmm7N9pqsK)
+
+**DSCVR**
+
+- What: DSCVR is a decentralized version of Reddit, where users are the owners. Decentralized end-to-end, built on the Internet Computer, and accessible from any browser. 
+- Where: [https://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/](https://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/)
+- Twitter: [https://twitter.com/DscvrO](https://twitter.com/DscvrO)
+
+**Distrikt**
+
+- What: Distrikt is a completely decentralized, community-owned professional network. Users of the platform will vote on upgrades, and no user data will ever be mined or sold. Create your account, secured by Internet Identity today.
+- Team:
+	- [https://distrikt.io](https://distrikt.io)
+	- [https://c7fao-laaaa-aaaae-aaa4q-cai.ic0.app/](https://c7fao-laaaa-aaaae-aaa4q-cai.ic0.app/)
+- Dapp:
+	- [https://distrikt.app](https://distrikt.app)
+	- [https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/](https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/)
+- Twitter: [https://twitter.com/DistriktApp](https://twitter.com/DistriktApp)
+- Telegram: [https://t.me/DistriktApp](https://t.me/DistriktApp)
+- Newsletter: [https://medium.com/distrikt](https://medium.com/distrikt)
+
+**DSocial**
+
+- What: Decentralized Youtube on IC
+- Twitter: [https://twitter.com/DSocialApp](https://twitter.com/DSocialApp)
+
+**ICPMeet**
+
+- What: a Tinder on ICP
+- Where: [https://www.icpmeet.com/](https://www.icpmeet.com/)
+- Who: [Rickey](https://github.com/HelloRickey)
+- Twitter: [https://twitter.com/icpmeet](https://twitter.com/icpmeet)
+- DFINITY Grant: received in July 2021
+
+**Go Bazzinga**
+
+- What: World's first decentralised "Short-Video X Draft Kings" Social Speculation Platform
+- Where: [https://gobazzinga.io/](https://gobazzinga.io/)
+- Twitter: [https://twitter.com/GoBazzingainc](https://twitter.com/GoBazzingainc)
+
+**Learned**
+
+- What: LEARND is a community driven educationnal platform running on Internet Computer. We want to provide a new kind of learning and incentives using crypto assets, community vote using SNS, reward learners AND teachers.
+- Where: [https://learnd.dedn.eu/](https://learnd.dedn.eu/)
+- Twitter: [https://twitter.com/LEARNDTEAM](https://twitter.com/LEARNDTEAM)
+- Who: [Charlie Waff](https://twitter.com/WaffCharlie)
+
+**ModClub**
+
+- What: MODCLUB is a decentralized content moderation platform, it simplifies the moderation process by connecting our community to dApps that need UGC moderation. It has a reputation token economics model.
+- Where: [https://ljyte-qiaaa-aaaah-qaiva-cai.raw.ic0.app/](https://ljyte-qiaaa-aaaah-qaiva-cai.raw.ic0.app/)
+- Who: [Raheel Govindji](https://twitter.com/RaheelGovindji)
+- Twitter: [https://twitter.com/ModclubApp](https://twitter.com/ModclubApp)
+- Discord: [http://discord.gg/8zUrHd46Tf](http://discord.gg/8zUrHd46Tf)
+- Medium: [https://medium.com/@modclub](https://medium.com/@modclub)
+
+**OpenChat**
+
+- What: Decentralized messaging has been a pipe-dream for decades. With the advent of the Internet Computer, real-time messaging is now possible on a blockchain.
+- Where: [https://oc.app](https://oc.app)
+- Twitter: [https://twitter.com/OpenChat](https://twitter.com/OpenChat)
+
+**Overchute**
+
+- What: A decentralized smart-contract application for crowdfunding the release of intellectual property under open licences
+- Where: [https://overchute.com/](https://overchute.com/)
+- Twitter: [https://twitter.com/OverchuteApp](https://twitter.com/OverchuteApp)
+- Github: [https://github.com/Overchute](https://github.com/Overchute)
+
+**Party Board**
+
+- What: Multi-chain metaverse social network
+- Twitter: [https://twitter.com/party_board](https://twitter.com/party_board)
+- Telegram: [https://t.me/partyboard_en](https://t.me/partyboard_en)
+- Discord: [https://discord.com/invite/kewhcJM4uf](https://discord.com/invite/kewhcJM4uf)
+
+## Game/Metaverse
+
+**Cube Run**
+
+- What: The classic game, "Cube Run" gets an update by having a new graphic interface and being hosted completely on-chain. The decentralized version of this game lets you keep your high-score running in your browser through persistent memory. 
+- Where: [https://7qx3n-ziaaa-aaaad-qaqca-cai.raw.ic0.app/](https://7qx3n-ziaaa-aaaad-qaqca-cai.raw.ic0.app/)
+
+**HEXGL**
+
+- What: HexGL is a futuristic racing game using HTML5, Javascript, WebGL and hosted on the Internet Computer blockchain in order to run instantly on your browser from anywhere in the world.
+- Where: [https://neqb2-dyaaa-aaaad-qameq-cai.raw.ic0.app/](https://neqb2-dyaaa-aaaad-qameq-cai.raw.ic0.app/)
+
+**ICMoji Origins**
+
+- What: ICMoji Origins is an NFT-based multiplayer game built end-to-end on-chain on the Internet Computer. 
+- Where:
+	- [https://icmojis.com/](https://icmojis.com/)
+	- [https://graci-aaaaa-aaaah-aaqjq-cai.raw.ic0.app/](https://graci-aaaaa-aaaah-aaqjq-cai.raw.ic0.app/)
+- Twitter: [https://twitter.com/icmoji](https://twitter.com/icmoji)
+- Who: [Visions](https://twitter.com/Visions_GFX)
+
+**Lo-Fi Player**
+
+- What: Lo-Fi Player is a dapp hosted on the Internet Computer that lets users listen to relaxing beats delivered by blockchain. The back-end is using machine learning to build and develop the AI produced tunes, and users can interact within the player to change the sound to their liking.
+- Where: [https://hl2zz-gyaaa-aaaad-qas3a-cai.raw.ic0.app/](https://hl2zz-gyaaa-aaaad-qas3a-cai.raw.ic0.app/)
+
+**Mission Is Possible**
+
+- What: A PVP third person shooter hosted on the Internet Computer blockchain. The John Wick inspired game is built using the Unity 3D Game Engine, and hosted on the IC enabling decentralized login with Internet Identity.
+- Where: [https://to3ja-iyaaa-aaaai-qapsq-cai.raw.ic0.app/](https://to3ja-iyaaa-aaaai-qapsq-cai.raw.ic0.app/)
+- Twitter: [https://twitter.com/MiP_the_Game](https://twitter.com/MiP_the_Game)
+
+**Reversi**
+
+- What: Reversi is one of the first canister smart contracts deployed to the Internet Computer and is a completely decentralized multiplayer game. Play against a friend (or foe) in real-time, from any browser, anywhere in the world.
+- Where: [https://ivg37-qiaaa-aaaab-aaaga-cai.ic0.app/#!/play](https://ivg37-qiaaa-aaaab-aaaga-cai.ic0.app/#!/play)
+- Who: [Paul Liu](https://forum.dfinity.org/u/paulliu/)
+
+**Rise of the Magni**
+
+- What: Rise of the Magni, winner of the DSCVR hackathon for games on the Internet Computer. Buy, earn, and trade collectibles, compete in tactical battles online to earn in-game tokens, and venture through story mode to experience one of the first games built on the Internet Computer.
+- Where: [https://riseofthemagni.com/](https://riseofthemagni.com/)
+- Who: [Toniq Labs](https://igpeu-waaaa-aaaad-qaava-cai.raw.ic0.app/)
+- Twitter: [https://twitter.com/ToniqGames](https://twitter.com/ToniqGames)
+
+**Saga**
+
+- What: Have your fortune told on the Internet Computer. Saga Tarot gives you a tarot reading in one click. The user-friendly dapp is built completely on the Internet Computer, accessible from any browser. What will the future hold for you?
+- Twitter: [https://twitter.com/SagaCards](https://twitter.com/SagaCards)
+- Where:
+	- [https://legends.saga.cards/](https://legends.saga.cards/)
+	-  [https://5nl7c-zqaaa-aaaah-qaa7a-cai.raw.ic0.app/](https://5nl7c-zqaaa-aaaah-qaa7a-cai.raw.ic0.app/)
+
+**Texas Hold'em**
+
+- What: IC Texas Hold'em is a dapp hosted completely on-chain on the Internet Computer. 2nd place winner of the DSCVR Hackathon Season 2
+- Where: [https://lm5fh-ayaaa-aaaah-aafua-cai.ic0.app/](https://lm5fh-ayaaa-aaaah-aafua-cai.ic0.app/)
+- Who: [NNSDao](https://twitter.com/NnsDaos)
+- Github: [https://github.com/NnsDao/ICTexas-UI](https://github.com/NnsDao/ICTexas-UI)
+
+**Welcome Into the Metaverse**
+
+- What: Prize winner of the DSCVR hackathon for the Internet Computer – this game brings digital community into a unified virtual space. Find anecdotes from founding ecosystem members, and go through a series of quests.
+- Where: [https://lc7ip-3iaaa-aaaah-aafva-cai.ic0.app/](https://lc7ip-3iaaa-aaaah-aafva-cai.ic0.app/)
+- Who: [https://twitter.com/ThuillierSbast3](https://twitter.com/ThuillierSbast3)
+
+**Drip.Land**
+
+- What: Open project, liquid democracy/community. Metaverse building on the #IC
+- Where: https://drip.land/info
+- Twitter: [https://twitter.com/ICdripland](https://twitter.com/ICdripland)
+- Telegram: [https://t.me/icdrip](https://t.me/icdrip)
+- Discord: [https://discord.com/invite/U8YppXuU2x](https://discord.com/invite/U8YppXuU2x)
+- Github: [https://github.com/FloorLamp/drip-land](https://github.com/FloorLamp/drip-land)
+
+**Metaverse AI**
+
+- What: Digital human and virtual idol on IC
+- Where: [https://www.metaverseai.org/](https://www.metaverseai.org/)
+- Who: [Henry Yan](https://www.linkedin.com/in/henryonline/)
+- Twitter: [https://twitter.com/metaverseOrg](https://twitter.com/metaverseOrg)
+- Github: [https://github.com/Vera-AI-Technology](https://github.com/Vera-AI-Technology)
+- DFINITY Grant: received in October 2021
+
+**XR Foundation**
+
+- What: an open source zero-profit collective building metaverse technologies.
+- Where: [https://www.xrfoundation.io/](https://www.xrfoundation.io/)
+- Github: [https://github.com/XRFoundation/XREngine](https://github.com/XRFoundation/XREngine)
+
+## Productivity
+
+**Aedile**
+
+- What: Aedile brings your team’s work together in one shared space, completely built on-chain. Manage your boards, columns & cards to transform your projects, serving web experiences directly from the Internet Computer blockchain.
+- Where: [https://eemeo-taaaa-aaaad-qakjq-cai.ic.fleek.co/](https://eemeo-taaaa-aaaad-qakjq-cai.ic.fleek.co/)
+- Who: [Esens Consulting](https://www.esensconsulting.com/)
+- Twitter: [https://twitter.com/aedile_ic](https://twitter.com/aedile_ic)
+
+**Bunchd**
+
+- What: Create, Collaborate, and Earn on the Subscription Platform controlled by Creators.
+- Twitter: [https://twitter.com/GetBunchd](https://twitter.com/GetBunchd)
+
+**Dbox**
+
+- What: decentralized inbox built on Internet Computer
+- Where: [https://www.dbox.foundation/](https://www.dbox.foundation/)
+- Twitter: [https://twitter.com/DBOXFoundation](https://twitter.com/DBOXFoundation)
+
+**DeckDeckGo**
+
+- What: An open source web editor for presentations built completely on-chain. This dapp is like a decentralized version of Google Slides built on the Internet Computer.
+- Where: [https://deckdeckgo.com](https://deckdeckgo.com)
+- Who: [https://twitter.com/daviddalbusco](https://twitter.com/daviddalbusco), [https://twitter.com/nasmattia](https://twitter.com/nasmattia)
+- Twitter: [https://twitter.com/deckdeckgo](https://twitter.com/deckdeckgo)
+- Github: [https://github.com/deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo)
+
+**Dmail.ai**
+
+- What: Use Web3, not Gmail. Dmail makes it safe and private for you to communicate storage and transfer token & NFTs on DFINITY
+- Where: [https://dmail.ai/](https://dmail.ai/)
+- Twitter: [https://twitter.com/dmailofficial](https://twitter.com/dmailofficial)
+- Telegram: [https://t.me/dmailofficial](https://t.me/dmailofficial)
+- Medium: [https://medium.com/@dmail_official](https://medium.com/@dmail_official)
+- Github: [https://github.com/dmailofficial](https://github.com/dmailofficial)
+
+**IC Contacts**
+
+- What: A social media management tool build on ICP, helping users manage relations in Web3 networks
+- Who: [Relation Labs](https://twitter.com/relationlabs)
+- Twitter: [https://twitter.com/relationlabs](https://twitter.com/relationlabs)
+- Other: [Grand Slam winner of 7th Wanxiang Blockchain Hackathon](https://twitter.com/herbertyang/status/1454780835379384326)
+
+**IC Drive**
+
+- What: A decentralized private file storage dapp built on the Internet Computer. Store and securely share any type from anywhere in the world with this decentralized version of Box, or Google Drive.
+- Where: [https://icdrive.co](https://icdrive.co)
+- Who: [https://twitter.com/nanditmehra](https://twitter.com/nanditmehra)
+- Twitter: [https://twitter.com/icDrive](https://twitter.com/icDrive)
+
+**ICEvent**
+
+- What: an open event service built on IC
+- Where:
+	- [https://icevent.vercel.app](https://icevent.vercel.app)
+	- [https://znisf-eqaaa-aaaaj-aabta-cai.raw.ic0.app/](https://znisf-eqaaa-aaaaj-aabta-cai.raw.ic0.app/)
+- Twitter: [https://twitter.com/vansdaynet](https://twitter.com/vansdaynet)
+
+**Nuance**
+
+- What: Nuance is a Web3.0 blogging platform that is hosted on-chain end-to-end on the Internet Computer. Developed by Aikin Dapps, the alpha of the world’s first blogging platform to be hosted entirely on a blockchain has now launched. Nuance aims to bring NFTs into the world of editorial content ownership.
+- Where: [https://fxnaj-yaaaa-aaaaf-qad3q-cai.ic0.app](https://fxnaj-yaaaa-aaaaf-qad3q-cai.ic0.app)
+- Who: [AIKIN](https://www.aikin.io/)
+- Twitter: [https://twitter.com/AikinDApps](https://twitter.com/AikinDApps)
+- Discord: [https://discord.gg/2dPCPu6zxz](https://discord.gg/2dPCPu6zxz)
+
+**Photos by Functionland**
+
+- What: Photos is a react-native(expo)+typescript application to replace Google Photos/Apple Photos, and give freedom in hosting your photos on any platform, either centralized servers like Amazon or Microsoft, or decentralized solutions such as Dfinity or IPFS-based "box"
+- Where: [https://fx.land/](https://fx.land/)
+- Twitter: [https://twitter.com/functionland](https://twitter.com/functionland)
+- Telegram: [https://t.me/functionlanders](https://t.me/functionlanders)
+- Github: [https://github.com/functionland/photos](https://github.com/functionland/photos)
+
+**Quark**
+
+- What: Quark is an open internet service facilitating payments on the Internet Computer like Stripe or Paypal
+- Where: [https://ebgyc-nqaaa-aaaaf-qad6q-cai.ic0.app/](https://ebgyc-nqaaa-aaaaf-qad6q-cai.ic0.app/)
+- Github: [https://github.com/SuddenlyHazel](https://github.com/SuddenlyHazel)
+
+**Waterslide.app**
+
+- What: Frontend to interact with the @LiquityProtocol
+- Where: [https://waterslide.app/](https://waterslide.app/)
+- Twitter: [https://twitter.com/waterslide_app](https://twitter.com/waterslide_app)
+
+## Communities
+
+**ICP123**
+
+- What: Find Awesome Dfinity Projects
+- Where: [https://icp123.xyz/](https://icp123.xyz/)
+- Twitter: [https://twitter.com/icp123xyz](https://twitter.com/icp123xyz)
+- Github: [https://github.com/icpfans-xyz](https://github.com/icpfans-xyz)
+- Who: [Lee](https://github.com/includeleec) of [https://www.nebulas.io/](https://twitter.com/nebulasio)
+- DFINITY Grant: received in June 2021
+
+**Internet Computer Education**
+
+- What: very helpful Github-based education resources  with elaborate and step-by-step online classes and cirriculum to teach developers Internet Computer
+- Where: [https://github.com/DFINITY-Education](https://github.com/DFINITY-Education)
+- Who: [nico](https://github.com/nzoghb), [csolimano](https://github.com/csolimano) and [Claudio Russo](https://github.com/crusso)
+
+**THUBA Education**
+
+- What: THUBA Education is an education platform supported by Tsinghua University student Blockchain Association. The goal is to be a solid bridge between students and blockchain world. The students can use this platform to learn blockchain courses, join Hackthon and do some research. 
+- Where: [https://thublockchain.org/](https://thublockchain.org/)
+- Who: Tsinghua University Students Blockchain Association
+
+## Enterprise
+
+**Agryo**
+
+- What: Agryo is the global risk intelligence provider that enables financial institutions to assess and manage financial risks in the crop field level for underwriting agriculture insurance, loans, and trade finance globally; as well as meet sustainability goals.
+- Where: [www.agryo.com](www.agryo.com)
+- Twitter: [https://twitter.com/agryo_](https://twitter.com/agryo_)
+
+**ContentFly**
+
+- What: Marketplace app connecting high quality Content Creators to Brands, running on Dfinity Internet Computer
+- Where: [https://contentfly.app/](https://contentfly.app/)
+- Twitter: [https://twitter.com/ContentFlyApp](https://twitter.com/ContentFlyApp)
+
+**dFlow**
+
+- What: "decentralized Workflow"- an innovative and simple way for defining and executing cross-organisational business flows
+- Where: [https://www.dcentra.io/](https://www.dcentra.io/)
+
+**dService**
+
+- What: A next-generation decentralized Service Management Application running on the Internet Computer. The Application is primarily focused on IT Service Management.
+- Where:
+	- [https://agnoo-nqaaa-aaaah-aaq4q-cai.ic0.app/](https://agnoo-nqaaa-aaaah-aaq4q-cai.ic0.app/)
+	- [https://dservice.app](https://dservice.app)
+- Twitter: [https://twitter.com/dServiceApp](https://twitter.com/dServiceApp)
+
+**Get Impact Now**
+
+- What: The politics platform that enables you to change the world
+- Where: [https://getimpactnow.org/](https://getimpactnow.org/)
+- Twitter: [https://twitter.com/getimpactnow](https://twitter.com/getimpactnow)
+- Github: [https://github.com/getimpactnow/getimpactnow/](https://github.com/getimpactnow/getimpactnow/)
+
+**Optex**
+
+- What: Optex is a powerful data visualisation tool designed to provide seamless insights into complex data. Optex is out-of-the-box solution that will allows users to combine data in a single analysis and get a holistic view of the same with interactive customisable visualisations.
+- Where: [https://www.clinicaltrialsintelligence.org/](https://www.clinicaltrialsintelligence.org/)
+- Twitter: [https://twitter.com/ClinTexCTi](https://twitter.com/ClinTexCTi)
+
+**Origyn**
+
+- What: The Origyn Foundation is blending luxury goods, with NFTs by providing digital verifications for physical objects. Only possible on the Internet Computer.
+- Where: [https://www.origyn.ch/](https://www.origyn.ch/)
+- Twitter: [https://twitter.com/ORIGYNTech](https://twitter.com/ORIGYNTech)
+- Telegram: [https://t.me/origynfoundation](https://t.me/origynfoundation)
+
+**Triip**
+
+- What: Triip  is a blockchain-enabled travel platform allows for direct interactions between service providers and clients. Using a propriety token, Triip Miles or TIIM,  Triip  is a network that enables greater transparency, security and lower cost transactions between those who travel and those who serve them.
+- Where: [https://www.triip.me/](https://www.triip.me/)
+- Twitter: [https://twitter.com/triipme](https://twitter.com/triipme)
+- Telegram: [https://t.me/TriipMilesICO](https://t.me/TriipMilesICO)
+- Github: [https://github.com/triipme](https://github.com/triipme)
+- Who: [Triip Pte Ltd](https://www.triip.me/pages/about_us)
+- DFINITY Grant: received in Aug 2021
+
+**WeAct.chat**
+
+- What: The app made for groups of advocates, activists, and change makers working to better the world
+- Where: [https://www.weact.chat/dfinity](https://www.weact.chat/dfinity)
+- Twitter: [https://twitter.com/WeAct_Chat](https://twitter.com/WeAct_Chat)
+
+## NFT
 
 **Crowd Created Canvas (CCC)***
 
@@ -690,351 +1040,3 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - What: a collection of 8888 intelligently generated NFTs on the Internet Computer blockchain
 - Where: [http://www.enteryoloclub.com/](http://www.enteryoloclub.com/)
 - Twitter: [https://twitter.com/EnterYoloClub](https://twitter.com/EnterYoloClub)
-
-## Social (11)
-
-**crowdEats**
-
-- What: Yelp on IC, owned by users
-- Where: [https://www.crowdeats.io/](https://www.crowdeats.io/)
-- Twitter: [https://twitter.com/crowdeats_io](https://twitter.com/crowdeats_io)
-- Discord: [https://discord.gg/Cmm7N9pqsK](https://discord.gg/Cmm7N9pqsK)
-
-**DSCVR**
-
-- What: DSCVR is a decentralized version of Reddit, where users are the owners. Decentralized end-to-end, built on the Internet Computer, and accessible from any browser. 
-- Where: [https://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/](https://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/)
-- Twitter: [https://twitter.com/DscvrO](https://twitter.com/DscvrO)
-
-**Distrikt**
-
-- What: Distrikt is a completely decentralized, community-owned professional network. Users of the platform will vote on upgrades, and no user data will ever be mined or sold. Create your account, secured by Internet Identity today.
-- Team:
-	- [https://distrikt.io](https://distrikt.io)
-	- [https://c7fao-laaaa-aaaae-aaa4q-cai.ic0.app/](https://c7fao-laaaa-aaaae-aaa4q-cai.ic0.app/)
-- Dapp:
-	- [https://distrikt.app](https://distrikt.app)
-	- [https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/](https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/)
-- Twitter: [https://twitter.com/DistriktApp](https://twitter.com/DistriktApp)
-- Telegram: [https://t.me/DistriktApp](https://t.me/DistriktApp)
-- Newsletter: [https://medium.com/distrikt](https://medium.com/distrikt)
-
-**DSocial**
-
-- What: Decentralized Youtube on IC
-- Twitter: [https://twitter.com/DSocialApp](https://twitter.com/DSocialApp)
-
-**ICPMeet**
-
-- What: a Tinder on ICP
-- Where: [https://www.icpmeet.com/](https://www.icpmeet.com/)
-- Who: [Rickey](https://github.com/HelloRickey)
-- Twitter: [https://twitter.com/icpmeet](https://twitter.com/icpmeet)
-- DFINITY Grant: received in July 2021
-
-**Go Bazzinga**
-
-- What: World's first decentralised "Short-Video X Draft Kings" Social Speculation Platform
-- Where: [https://gobazzinga.io/](https://gobazzinga.io/)
-- Twitter: [https://twitter.com/GoBazzingainc](https://twitter.com/GoBazzingainc)
-
-**Learned**
-
-- What: LEARND is a community driven educationnal platform running on Internet Computer. We want to provide a new kind of learning and incentives using crypto assets, community vote using SNS, reward learners AND teachers.
-- Where: [https://learnd.dedn.eu/](https://learnd.dedn.eu/)
-- Twitter: [https://twitter.com/LEARNDTEAM](https://twitter.com/LEARNDTEAM)
-- Who: [Charlie Waff](https://twitter.com/WaffCharlie)
-
-**ModClub**
-
-- What: MODCLUB is a decentralized content moderation platform, it simplifies the moderation process by connecting our community to dApps that need UGC moderation. It has a reputation token economics model.
-- Where: [https://ljyte-qiaaa-aaaah-qaiva-cai.raw.ic0.app/](https://ljyte-qiaaa-aaaah-qaiva-cai.raw.ic0.app/)
-- Who: [Raheel Govindji](https://twitter.com/RaheelGovindji)
-- Twitter: [https://twitter.com/ModclubApp](https://twitter.com/ModclubApp)
-- Discord: [http://discord.gg/8zUrHd46Tf](http://discord.gg/8zUrHd46Tf)
-- Medium: [https://medium.com/@modclub](https://medium.com/@modclub)
-
-**OpenChat**
-
-- What: Decentralized messaging has been a pipe-dream for decades. With the advent of the Internet Computer, real-time messaging is now possible on a blockchain.
-- Where: [https://oc.app](https://oc.app)
-- Twitter: [https://twitter.com/OpenChat](https://twitter.com/OpenChat)
-
-**Overchute**
-
-- What: A decentralized smart-contract application for crowdfunding the release of intellectual property under open licences
-- Where: [https://overchute.com/](https://overchute.com/)
-- Twitter: [https://twitter.com/OverchuteApp](https://twitter.com/OverchuteApp)
-- Github: [https://github.com/Overchute](https://github.com/Overchute)
-
-**Party Board**
-
-- What: Multi-chain metaverse social network
-- Twitter: [https://twitter.com/party_board](https://twitter.com/party_board)
-- Telegram: [https://t.me/partyboard_en](https://t.me/partyboard_en)
-- Discord: [https://discord.com/invite/kewhcJM4uf](https://discord.com/invite/kewhcJM4uf)
-
-## Games (10)
-
-**Cube Run**
-
-- What: The classic game, "Cube Run" gets an update by having a new graphic interface and being hosted completely on-chain. The decentralized version of this game lets you keep your high-score running in your browser through persistent memory. 
-- Where: [https://7qx3n-ziaaa-aaaad-qaqca-cai.raw.ic0.app/](https://7qx3n-ziaaa-aaaad-qaqca-cai.raw.ic0.app/)
-
-**HEXGL**
-
-- What: HexGL is a futuristic racing game using HTML5, Javascript, WebGL and hosted on the Internet Computer blockchain in order to run instantly on your browser from anywhere in the world.
-- Where: [https://neqb2-dyaaa-aaaad-qameq-cai.raw.ic0.app/](https://neqb2-dyaaa-aaaad-qameq-cai.raw.ic0.app/)
-
-**ICMoji Origins**
-
-- What: ICMoji Origins is an NFT-based multiplayer game built end-to-end on-chain on the Internet Computer. 
-- Where:
-	- [https://icmojis.com/](https://icmojis.com/)
-	- [https://graci-aaaaa-aaaah-aaqjq-cai.raw.ic0.app/](https://graci-aaaaa-aaaah-aaqjq-cai.raw.ic0.app/)
-- Twitter: [https://twitter.com/icmoji](https://twitter.com/icmoji)
-- Who: [Visions](https://twitter.com/Visions_GFX)
-
-**Lo-Fi Player**
-
-- What: Lo-Fi Player is a dapp hosted on the Internet Computer that lets users listen to relaxing beats delivered by blockchain. The back-end is using machine learning to build and develop the AI produced tunes, and users can interact within the player to change the sound to their liking.
-- Where: [https://hl2zz-gyaaa-aaaad-qas3a-cai.raw.ic0.app/](https://hl2zz-gyaaa-aaaad-qas3a-cai.raw.ic0.app/)
-
-**Mission Is Possible**
-
-- What: A PVP third person shooter hosted on the Internet Computer blockchain. The John Wick inspired game is built using the Unity 3D Game Engine, and hosted on the IC enabling decentralized login with Internet Identity.
-- Where: [https://to3ja-iyaaa-aaaai-qapsq-cai.raw.ic0.app/](https://to3ja-iyaaa-aaaai-qapsq-cai.raw.ic0.app/)
-- Twitter: [https://twitter.com/MiP_the_Game](https://twitter.com/MiP_the_Game)
-
-**Reversi**
-
-- What: Reversi is one of the first canister smart contracts deployed to the Internet Computer and is a completely decentralized multiplayer game. Play against a friend (or foe) in real-time, from any browser, anywhere in the world.
-- Where: [https://ivg37-qiaaa-aaaab-aaaga-cai.ic0.app/#!/play](https://ivg37-qiaaa-aaaab-aaaga-cai.ic0.app/#!/play)
-- Who: [Paul Liu](https://forum.dfinity.org/u/paulliu/)
-
-**Rise of the Magni**
-
-- What: Rise of the Magni, winner of the DSCVR hackathon for games on the Internet Computer. Buy, earn, and trade collectibles, compete in tactical battles online to earn in-game tokens, and venture through story mode to experience one of the first games built on the Internet Computer.
-- Where: [https://riseofthemagni.com/](https://riseofthemagni.com/)
-- Who: [Toniq Labs](https://igpeu-waaaa-aaaad-qaava-cai.raw.ic0.app/)
-- Twitter: [https://twitter.com/ToniqGames](https://twitter.com/ToniqGames)
-
-**Saga**
-
-- What: Have your fortune told on the Internet Computer. Saga Tarot gives you a tarot reading in one click. The user-friendly dapp is built completely on the Internet Computer, accessible from any browser. What will the future hold for you?
-- Twitter: [https://twitter.com/SagaCards](https://twitter.com/SagaCards)
-- Where:
-	- [https://legends.saga.cards/](https://legends.saga.cards/)
-	-  [https://5nl7c-zqaaa-aaaah-qaa7a-cai.raw.ic0.app/](https://5nl7c-zqaaa-aaaah-qaa7a-cai.raw.ic0.app/)
-
-**Texas Hold'em**
-
-- What: IC Texas Hold'em is a dapp hosted completely on-chain on the Internet Computer. 2nd place winner of the DSCVR Hackathon Season 2
-- Where: [https://lm5fh-ayaaa-aaaah-aafua-cai.ic0.app/](https://lm5fh-ayaaa-aaaah-aafua-cai.ic0.app/)
-- Who: [NNSDao](https://twitter.com/NnsDaos)
-- Github: [https://github.com/NnsDao/ICTexas-UI](https://github.com/NnsDao/ICTexas-UI)
-
-**Welcome Into the Metaverse**
-
-- What: Prize winner of the DSCVR hackathon for the Internet Computer – this game brings digital community into a unified virtual space. Find anecdotes from founding ecosystem members, and go through a series of quests.
-- Where: [https://lc7ip-3iaaa-aaaah-aafva-cai.ic0.app/](https://lc7ip-3iaaa-aaaah-aafva-cai.ic0.app/)
-- Who: [https://twitter.com/ThuillierSbast3](https://twitter.com/ThuillierSbast3)
-
-## Metaverse (3)
-
-**Drip.Land**
-
-- What: Open project, liquid democracy/community. Metaverse building on the #IC
-- Where: https://drip.land/info
-- Twitter: [https://twitter.com/ICdripland](https://twitter.com/ICdripland)
-- Telegram: [https://t.me/icdrip](https://t.me/icdrip)
-- Discord: [https://discord.com/invite/U8YppXuU2x](https://discord.com/invite/U8YppXuU2x)
-- Github: [https://github.com/FloorLamp/drip-land](https://github.com/FloorLamp/drip-land)
-
-**Metaverse AI**
-
-- What: Digital human and virtual idol on IC
-- Where: [https://www.metaverseai.org/](https://www.metaverseai.org/)
-- Who: [Henry Yan](https://www.linkedin.com/in/henryonline/)
-- Twitter: [https://twitter.com/metaverseOrg](https://twitter.com/metaverseOrg)
-- Github: [https://github.com/Vera-AI-Technology](https://github.com/Vera-AI-Technology)
-- DFINITY Grant: received in October 2021
-
-**XR Foundation**
-
-- What: an open source zero-profit collective building metaverse technologies.
-- Where: [https://www.xrfoundation.io/](https://www.xrfoundation.io/)
-- Github: [https://github.com/XRFoundation/XREngine](https://github.com/XRFoundation/XREngine)
-
-## Productivity (12)
-
-**Aedile**
-
-- What: Aedile brings your team’s work together in one shared space, completely built on-chain. Manage your boards, columns & cards to transform your projects, serving web experiences directly from the Internet Computer blockchain.
-- Where: [https://eemeo-taaaa-aaaad-qakjq-cai.ic.fleek.co/](https://eemeo-taaaa-aaaad-qakjq-cai.ic.fleek.co/)
-- Who: [Esens Consulting](https://www.esensconsulting.com/)
-- Twitter: [https://twitter.com/aedile_ic](https://twitter.com/aedile_ic)
-
-**Bunchd**
-
-- What: Create, Collaborate, and Earn on the Subscription Platform controlled by Creators.
-- Twitter: [https://twitter.com/GetBunchd](https://twitter.com/GetBunchd)
-
-**Dbox**
-
-- What: decentralized inbox built on Internet Computer
-- Where: [https://www.dbox.foundation/](https://www.dbox.foundation/)
-- Twitter: [https://twitter.com/DBOXFoundation](https://twitter.com/DBOXFoundation)
-
-**DeckDeckGo**
-
-- What: An open source web editor for presentations built completely on-chain. This dapp is like a decentralized version of Google Slides built on the Internet Computer.
-- Where: [https://deckdeckgo.com](https://deckdeckgo.com)
-- Who: [https://twitter.com/daviddalbusco](https://twitter.com/daviddalbusco), [https://twitter.com/nasmattia](https://twitter.com/nasmattia)
-- Twitter: [https://twitter.com/deckdeckgo](https://twitter.com/deckdeckgo)
-- Github: [https://github.com/deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo)
-
-**Dmail.ai**
-
-- What: Use Web3, not Gmail. Dmail makes it safe and private for you to communicate storage and transfer token & NFTs on DFINITY
-- Where: [https://dmail.ai/](https://dmail.ai/)
-- Twitter: [https://twitter.com/dmailofficial](https://twitter.com/dmailofficial)
-- Telegram: [https://t.me/dmailofficial](https://t.me/dmailofficial)
-- Medium: [https://medium.com/@dmail_official](https://medium.com/@dmail_official)
-- Github: [https://github.com/dmailofficial](https://github.com/dmailofficial)
-
-**IC Contacts**
-
-- What: A social media management tool build on ICP, helping users manage relations in Web3 networks
-- Who: [Relation Labs](https://twitter.com/relationlabs)
-- Twitter: [https://twitter.com/relationlabs](https://twitter.com/relationlabs)
-- Other: [Grand Slam winner of 7th Wanxiang Blockchain Hackathon](https://twitter.com/herbertyang/status/1454780835379384326)
-
-**IC Drive**
-
-- What: A decentralized private file storage dapp built on the Internet Computer. Store and securely share any type from anywhere in the world with this decentralized version of Box, or Google Drive.
-- Where: [https://icdrive.co](https://icdrive.co)
-- Who: [https://twitter.com/nanditmehra](https://twitter.com/nanditmehra)
-- Twitter: [https://twitter.com/icDrive](https://twitter.com/icDrive)
-
-**ICEvent**
-
-- What: an open event service built on IC
-- Where:
-	- [https://icevent.vercel.app](https://icevent.vercel.app)
-	- [https://znisf-eqaaa-aaaaj-aabta-cai.raw.ic0.app/](https://znisf-eqaaa-aaaaj-aabta-cai.raw.ic0.app/)
-- Twitter: [https://twitter.com/vansdaynet](https://twitter.com/vansdaynet)
-
-**Nuance**
-
-- What: Nuance is a Web3.0 blogging platform that is hosted on-chain end-to-end on the Internet Computer. Developed by Aikin Dapps, the alpha of the world’s first blogging platform to be hosted entirely on a blockchain has now launched. Nuance aims to bring NFTs into the world of editorial content ownership.
-- Where: [https://fxnaj-yaaaa-aaaaf-qad3q-cai.ic0.app](https://fxnaj-yaaaa-aaaaf-qad3q-cai.ic0.app)
-- Who: [AIKIN](https://www.aikin.io/)
-- Twitter: [https://twitter.com/AikinDApps](https://twitter.com/AikinDApps)
-- Discord: [https://discord.gg/2dPCPu6zxz](https://discord.gg/2dPCPu6zxz)
-
-**Photos by Functionland**
-
-- What: Photos is a react-native(expo)+typescript application to replace Google Photos/Apple Photos, and give freedom in hosting your photos on any platform, either centralized servers like Amazon or Microsoft, or decentralized solutions such as Dfinity or IPFS-based "box"
-- Where: [https://fx.land/](https://fx.land/)
-- Twitter: [https://twitter.com/functionland](https://twitter.com/functionland)
-- Telegram: [https://t.me/functionlanders](https://t.me/functionlanders)
-- Github: [https://github.com/functionland/photos](https://github.com/functionland/photos)
-
-**Quark**
-
-- What: Quark is an open internet service facilitating payments on the Internet Computer like Stripe or Paypal
-- Where: [https://ebgyc-nqaaa-aaaaf-qad6q-cai.ic0.app/](https://ebgyc-nqaaa-aaaaf-qad6q-cai.ic0.app/)
-- Github: [https://github.com/SuddenlyHazel](https://github.com/SuddenlyHazel)
-
-**Waterslide.app**
-
-- What: Frontend to interact with the @LiquityProtocol
-- Where: [https://waterslide.app/](https://waterslide.app/)
-- Twitter: [https://twitter.com/waterslide_app](https://twitter.com/waterslide_app)
-
-## Communities (3)
-
-**ICP123**
-
-- What: Find Awesome Dfinity Projects
-- Where: [https://icp123.xyz/](https://icp123.xyz/)
-- Twitter: [https://twitter.com/icp123xyz](https://twitter.com/icp123xyz)
-- Github: [https://github.com/icpfans-xyz](https://github.com/icpfans-xyz)
-- Who: [Lee](https://github.com/includeleec) of [https://www.nebulas.io/](https://twitter.com/nebulasio)
-- DFINITY Grant: received in June 2021
-
-**Internet Computer Education**
-
-- What: very helpful Github-based education resources  with elaborate and step-by-step online classes and cirriculum to teach developers Internet Computer
-- Where: [https://github.com/DFINITY-Education](https://github.com/DFINITY-Education)
-- Who: [nico](https://github.com/nzoghb), [csolimano](https://github.com/csolimano) and [Claudio Russo](https://github.com/crusso)
-
-**THUBA Education**
-
-- What: THUBA Education is an education platform supported by Tsinghua University student Blockchain Association. The goal is to be a solid bridge between students and blockchain world. The students can use this platform to learn blockchain courses, join Hackthon and do some research. 
-- Where: [https://thublockchain.org/](https://thublockchain.org/)
-- Who: Tsinghua University Students Blockchain Association
-
-## Enterprise (9)
-
-**Agryo**
-
-- What: Agryo is the global risk intelligence provider that enables financial institutions to assess and manage financial risks in the crop field level for underwriting agriculture insurance, loans, and trade finance globally; as well as meet sustainability goals.
-- Where: [www.agryo.com](www.agryo.com)
-- Twitter: [https://twitter.com/agryo_](https://twitter.com/agryo_)
-
-**ContentFly**
-
-- What: Marketplace app connecting high quality Content Creators to Brands, running on Dfinity Internet Computer
-- Where: [https://contentfly.app/](https://contentfly.app/)
-- Twitter: [https://twitter.com/ContentFlyApp](https://twitter.com/ContentFlyApp)
-
-**dFlow**
-
-- What: "decentralized Workflow"- an innovative and simple way for defining and executing cross-organisational business flows
-- Where: [https://www.dcentra.io/](https://www.dcentra.io/)
-
-**dService**
-
-- What: A next-generation decentralized Service Management Application running on the Internet Computer. The Application is primarily focused on IT Service Management.
-- Where:
-	- [https://agnoo-nqaaa-aaaah-aaq4q-cai.ic0.app/](https://agnoo-nqaaa-aaaah-aaq4q-cai.ic0.app/)
-	- [https://dservice.app](https://dservice.app)
-- Twitter: [https://twitter.com/dServiceApp](https://twitter.com/dServiceApp)
-
-**Get Impact Now**
-
-- What: The politics platform that enables you to change the world
-- Where: [https://getimpactnow.org/](https://getimpactnow.org/)
-- Twitter: [https://twitter.com/getimpactnow](https://twitter.com/getimpactnow)
-- Github: [https://github.com/getimpactnow/getimpactnow/](https://github.com/getimpactnow/getimpactnow/)
-
-**Optex**
-
-- What: Optex is a powerful data visualisation tool designed to provide seamless insights into complex data. Optex is out-of-the-box solution that will allows users to combine data in a single analysis and get a holistic view of the same with interactive customisable visualisations.
-- Where: [https://www.clinicaltrialsintelligence.org/](https://www.clinicaltrialsintelligence.org/)
-- Twitter: [https://twitter.com/ClinTexCTi](https://twitter.com/ClinTexCTi)
-
-**Origyn**
-
-- What: The Origyn Foundation is blending luxury goods, with NFTs by providing digital verifications for physical objects. Only possible on the Internet Computer.
-- Where: [https://www.origyn.ch/](https://www.origyn.ch/)
-- Twitter: [https://twitter.com/ORIGYNTech](https://twitter.com/ORIGYNTech)
-- Telegram: [https://t.me/origynfoundation](https://t.me/origynfoundation)
-
-**Triip**
-
-- What: Triip  is a blockchain-enabled travel platform allows for direct interactions between service providers and clients. Using a propriety token, Triip Miles or TIIM,  Triip  is a network that enables greater transparency, security and lower cost transactions between those who travel and those who serve them.
-- Where: [https://www.triip.me/](https://www.triip.me/)
-- Twitter: [https://twitter.com/triipme](https://twitter.com/triipme)
-- Telegram: [https://t.me/TriipMilesICO](https://t.me/TriipMilesICO)
-- Github: [https://github.com/triipme](https://github.com/triipme)
-- Who: [Triip Pte Ltd](https://www.triip.me/pages/about_us)
-- DFINITY Grant: received in Aug 2021
-
-**WeAct.chat**
-
-- What: The app made for groups of advocates, activists, and change makers working to better the world
-- Where: [https://www.weact.chat/dfinity](https://www.weact.chat/dfinity)
-- Twitter: [https://twitter.com/WeAct_Chat](https://twitter.com/WeAct_Chat)
