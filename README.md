@@ -7,18 +7,20 @@ A collection of projects and Dapps built on Internet Computer (IC) ecosystem. Vi
 
 Total # of IC dApps indexed: `141` as last updated on `Dec 16, 2021`. More will be added in the coming days as they reveal themselves.
 
-- Essential (`3`)
-- Wallet (`5`)
-- Tools (`26`)
-- Motoko (`4`)
-- DeFi (`13`)
-- NFT (`42`)
-- Social (`11`)
-- Games (`10`)
-- Metaverse (`3`)
-- Productivity (`12`)
-- Communities (`3`)
-- Enterprise (`9`)
+- [Awesome IC](#awesome-ic)
+	- [Essential](#essential)
+	- [Explorer](#exporer)
+	- [Directory](#directory)
+	- [Wallet](#wallet)
+	- [Tool](#tool)
+	- [Motoko](#motoko)
+	- [DeFi](#defi)
+	- [NFT](#nft)
+	- [Social](#social)
+	- [Game/Metaverse](#game-metaverse)
+	- [Productivity](#productivity)
+	- [Community](#community)
+	- [Enterprise Solution](#enterprise)
 
 This page tries to capture key info for each project, including its tag line, IC URL, Twitter, Discord, Telegram, Github repo and the team behind. For those projects with Twitter handles, they can also be found at:
 
@@ -33,7 +35,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 **DISCLAIMER**: 
 >This **`Awesome Internet Computer`** is a community project by IC volunteer(s). It's merely an index/directory, and does not represent official endorsement (or lack of) from the DFINITY Foundation in any fashion.  Nothing from this site shall be treated as financial advice. Please do your own research if you need to use any services listed below.
 
-## Essential (3)
+## Essential
 
 **ICA Network Status**
 
@@ -53,7 +55,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://nns.ic0.app/](https://nns.ic0.app/)
 - Who: [DFINITY Foundation](https://dfinity.org)
 
-## Wallet (5)
+## Wallet
 
 **ICWallet**
 
