@@ -37,23 +37,9 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 
 ## Essential
 
-**ICA Network Status**
-
-- What: Real-time dashboard of key metrics on the Internet Computer
-- Where: [https://dashboard.internetcomputer.org/](https://dashboard.internetcomputer.org/)
-- Who: [Internet Computer Association](https://internetcomputer.org/)
-
-**Internet Identity**
-
-- What: Internet Identity guarantees that your data isn’t visible, tracked, or mined. The blockchain authentication system enables users to sign in to dapps on the Internet Computer and sites across the web anonymously and securely.
-- Where: [https://identity.ic0.app/](https://identity.ic0.app/)
-- Who: [DFINITY Foundation](https://dfinity.org)
-
-**NNS Dapp**
-
-- What: The NNS front-end dapp allows anyone to interact with the Internet Computer's Network Nervous System with a user-friendly UI. Served completely end-to-end through blockchain, this dapp allows you to manage ICP, stake neurons, participate in voting, and earn rewards.
-- Where: [https://nns.ic0.app/](https://nns.ic0.app/)
-- Who: [DFINITY Foundation](https://dfinity.org)
+- [ICA Dashboard](https://dashboard.internetcomputer.org) - Real-Time Network Status for the Internet Computer Protocol
+- [Internet Identity](https://identity.ic0.app) - Authentication framework (aka, Digital ID), used by IC to enable users to access all IC Dapps 
+- [NNS Front-End App](https://nns.ic0.app) - The front-end app built by DFINITY to allow users to stake ICP in neurons and participate in the governance of the Network Nervous System, the DAO that governs the operation of IC.
 
 ## Explorer
 
@@ -489,7 +475,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Telegram: [https://t.me/partyboard_en](https://t.me/partyboard_en)
 - Discord: [https://discord.com/invite/kewhcJM4uf](https://discord.com/invite/kewhcJM4uf)
 
-## Game/Metaverse
+## Game-Metaverse
 
 **Cube Run**
 
@@ -666,7 +652,7 @@ If you find an IC dApp is still missing from this page, please [send a PR to its
 - Where: [https://waterslide.app/](https://waterslide.app/)
 - Twitter: [https://twitter.com/waterslide_app](https://twitter.com/waterslide_app)
 
-## Communities
+## Community
 
 **ICP123**
 
