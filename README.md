@@ -40,7 +40,7 @@ For those projects with Twitter handles, they can also be found at ["IC Projects
 ## Explorer
 
 - [IC Scan](https://icscan.io/) - The most comprehensive explorer for the IC ecosystem - by [Mix Labs](https://twitter.com/mixlabs_) 
-- [ICP Explorer](https://www.icpexplorer.org/#/) - An open-source, community-built dashboard and explorer for IC - by [Dylan Miller](https://www.icpexplorer.org/#/datacenters)
+- [ICP Explorer](https://www.icpexplorer.org/#/) - An open-source, community-built dashboard and explorer for IC - by [Dylan Miller](https://github.com/dylancm4)
 
 ## Directory
 
@@ -52,30 +52,7 @@ For those projects with Twitter handles, they can also be found at ["IC Projects
 - [Plug](https://plugwallet.ooo) - A browser extension that allows users to access  ICP, cycles, other tokens in IC, and NFTs - by [Psychedelic](https://psychedelic.ooo/)
 - [Stoic](https://stoicwallet.com/) - A multi-purpose crypto wallet for IC to manage tokens, stake ICP, top up canisters & more - by [Toniq Labs](https://twitter.com/toniqlabs)
 - [ME](https://astrox.me/) - A powerful multi-chain wallet to secure your assets without seed phrase across any devices - by [Astrox Network](https://twitter.com/Astrox_Network)
-
-**ICWallet**
-
-- What: Your gateway to Dfinity ecosystem
-- Where: [https://icwallet.org/](https://icwallet.org/)
-- Twitter: [https://twitter.com/icwallet](https://twitter.com/icwallet)
-- Who: [https://icwallet.gitbook.io/icwallet/team](https://icwallet.gitbook.io/icwallet/team)
-- Discord: [https://discord.com/invite/DqCeHU8rem](https://discord.com/invite/DqCeHU8rem)
-
-**DFWallet**
-
-- What: a decentralized smart wallet on Internet Computer
-- Where: [https://dfwallet.ooo/](https://dfwallet.ooo/)
-- Twitter: [https://twitter.com/DFWallet](https://twitter.com/DFWallet)
-- Telegram: [https://t.me/df_wallet](https://t.me/df_wallet)
-
-**Earth Wallet**
-
-- What: The open-source wallet allows users to participate in DeFi, Governance, and Treasury (DAO) protocols with negligible fees and faster transaction settlement than legacy wallets.
-- Where: [https://www.earthwallet.io/](https://www.earthwallet.io/)
-- Twitter: [https://twitter.com/earthwallet](https://twitter.com/earthwallet)
-- Discord: [https://discord.gg/B8G75XZ92K](https://discord.gg/B8G75XZ92K)
-- Telegram: [https://t.me/earthwallet](https://t.me/earthwallet)
-- Github: [https://github.com/earth-association](https://github.com/earth-association)
+- [Earth Wallet](https://www.earthwallet.io/) - A self-custody wallet for renegerative finance & NFTs - by [Earth Wallet Team](https://twitter.com/earthwallet)
 
 ## Tool
 
@@ -1011,3 +988,18 @@ For those projects with Twitter handles, they can also be found at ["IC Projects
 - What: a collection of 8888 intelligently generated NFTs on the Internet Computer blockchain
 - Where: [http://www.enteryoloclub.com/](http://www.enteryoloclub.com/)
 - Twitter: [https://twitter.com/EnterYoloClub](https://twitter.com/EnterYoloClub)
+
+**ICWallet**
+
+- What: Your gateway to Dfinity ecosystem
+- Where: [https://icwallet.org/](https://icwallet.org/)
+- Twitter: [https://twitter.com/icwallet](https://twitter.com/icwallet)
+- Who: [https://icwallet.gitbook.io/icwallet/team](https://icwallet.gitbook.io/icwallet/team)
+- Discord: [https://discord.com/invite/DqCeHU8rem](https://discord.com/invite/DqCeHU8rem)
+
+**DFWallet**
+
+- What: a decentralized smart wallet on Internet Computer
+- Where: [https://dfwallet.ooo/](https://dfwallet.ooo/)
+- Twitter: [https://twitter.com/DFWallet](https://twitter.com/DFWallet)
+- Telegram: [https://t.me/df_wallet](https://t.me/df_wallet)
