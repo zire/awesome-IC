@@ -1,0 +1,38 @@
+{
+    "teams": [
+        {
+            "teamID": "ic.team.00001",
+            "teamName": "Deland Labs",
+            "teamRegion": "Asia",
+            "teamCity": "Shanghai",
+            "teamLead": "[Witter Li](https://twitter.com/Witter900)",
+            "teamSite": "https://delandlabs.com/",
+            "teamTwitter": "https://twitter.com/DelandLabs",
+            "teamGithub": "http://github.com/deland-labs",
+            "teamDiscord": "https://discord.gg/CdzzUaFUXq"
+        },
+        {
+            "teamID": "ic.team.00002",
+            "teamName": "Mix Labs",
+            "teamRegion": "Asia",
+            "teamCity": "Shanghai",
+            "teamLead": "[Neo Liang](https://twitter.com/Neo4L)",
+            "teamSite": "https://mixlabs.org/",
+            "teamTwitter": "https://twitter.com/mixlabs_",
+            "teamGithub": "http://github.com/deland-labs",
+            "teamDiscord": ""
+        },
+        {
+            "teamID": "ic.team.00003",
+            "teamName": "ICLighthouse",
+            "teamRegion": "Asia",
+            "teamCity": "Hangzhou",
+            "teamLead": "William Simpson",
+            "teamSite": "https://iclight.house/",
+            "teamTwitter": "https://twitter.com/ICLighthouse",
+            "teamGithub": "https://github.com/iclighthouse",
+            "teamDiscord": "https://discord.gg/FQZFGGq7zv",
+            "teamProduct": "ICDex, ICTC, ICSwap, ICStable, ICHouse, CyclesFinance, ICLight Wallet"
+        }
+    ]
+}
