@@ -9,7 +9,7 @@
             "appGithub": "https://iloveics.gitbook.io/icpswap/",
             "appDiscord": "https://discord.com/invite/UFDTQkBfEB",
             "appTeam": "ICPSwap Team",
-            "appIntro": "AMA, Liquidity Pool, Staking Pool, NFT Marketplace",
+            "appIntro": "AMA, liquidity pool, staking pool, NFT Marketplace",
             "appGrant": "Completed"
         },
         {
@@ -21,7 +21,7 @@
             "appGithub": "https://github.com/iclighthouse/ICDex",
             "appDiscord": "",
             "appTeam": "ICLighthouse",
-            "appIntro": "Orderbook trading, 100% on-chain, DRC20, DIP20, ICRC1",
+            "appIntro": "Orderbook trading, 100% on-chain, DRC20, DIP20, ICRC-11",
             "appGrant": "N.A."
         },
         {
@@ -141,19 +141,19 @@
             "appGithub": "",
             "appDiscord": "",
             "appTeam": "CCC Protocol",
-            "appIntro": "Native Web3 Co-Creation Platform",
+            "appIntro": "In transition to Yumi NFT Marketplace",
             "appGrant": "N.A."
         },
         {
             "appID": "ic.app.0013",
             "appType": "DEX",
-            "appName": "EX3 OrderSwap",
+            "appName": "EX3(rebranded from 'OrderSwap')",
             "appSite": "https://www.ex3.one/",
             "appTwitter": "https://twitter.com/ex3orderswap",
             "appGithub": "",
             "appDiscord": "",
             "appTeam": "Deland Labs",
-            "appIntro": "Decentralized orderbook & AMA exchange",
+            "appIntro": "Decentralized orderbook & AMA exchange powered by an L2 on IC",
             "appGrant": "Completed"
         },
         {
@@ -164,7 +164,7 @@
             "appTwitter": "https://twitter.com/sonic_ooo",
             "appGithub": "",
             "appDiscord": "",
-            "appTeam": "Psychedelic",
+            "appTeam": "Rocklabs",
             "appIntro": "AMM exchange on IC",
             "appGrant": "N.A."
         },
